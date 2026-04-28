@@ -27,3 +27,6 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Notion collection expansions
 - Ingested 28 child pages from `Daily things learnt (1)` as separate source pages for granular querying.
+
+## Recent ingest updates
+- Added Notion real-estate knowledge cluster: STR operations, midterm strategy, and commercial-property opportunity tracking from `Real Estate Investment`.

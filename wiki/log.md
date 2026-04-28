@@ -1,3 +1,8 @@
+## [2026-04-27] ingest | Real Estate Investment
+## [2026-04-27] ingest | Airbnb
+## [2026-04-27] ingest | Tenant
+- source: `raw/notion-real-estate-investment.md` and child pages under `raw/notion-real-estate-investment/`
+
 ## [2026-04-27] ingest | Asking others to pay you
 ## [2026-04-27] ingest | Being an Airbnb owner
 ## [2026-04-27] ingest | Fertility Preservation

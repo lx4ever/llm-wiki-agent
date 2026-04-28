@@ -35,6 +35,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [“Why don't they use their time wisely?”](sources/notion-daily-things-learnt-1--why-don-t-they-use-their-time-wisely.md) — imported from Notion child page
 - [Why I buy cloth](sources/notion-daily-things-learnt-1--why-i-buy-cloth.md) — imported from Notion child page
 - [Why not do it all the way? Consistency of actions](sources/notion-daily-things-learnt-1--why-not-do-it-all-the-way-consistency-of-actions.md) — imported from Notion child page
+- [Real Estate Investment](sources/notion-real-estate-investment.md) — Notion real-estate strategy and opportunity notes
+- [Airbnb](sources/notion-real-estate-investment--airbnb.md) — STR operation notes from Notion child page
+- [Tenant](sources/notion-real-estate-investment--tenant.md) — tenant subpage (title-level extraction)
 
 ## Entities
 
@@ -44,5 +47,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gambler's Fallacy](concepts/GamblersFallacy.md) — cognitive bias in probabilistic reasoning
 - [Procrastination](concepts/Procrastination.md) — recurring execution and motivation bottleneck
 - [Self Awareness](concepts/SelfAwareness.md) — reflective meta-skill across life domains
+- [Airbnb Rental Operations](concepts/AirbnbRentalOperations.md) — operating constraints and adaptation for STR
+- [Midterm Rental Strategy](concepts/MidtermRentalStrategy.md) — market/occupancy framework for 28–30+ day rentals
+- [Commercial Real Estate](concepts/CommercialRealEstate.md) — cash-flow oriented commercial property notes
 
 ## Syntheses
