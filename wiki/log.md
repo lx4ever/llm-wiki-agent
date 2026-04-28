@@ -1,3 +1,11 @@
+## [2026-04-27] ingest | Vibe Coding Learning
+## [2026-04-27] ingest | Travel Plans
+## [2026-04-27] ingest | 🇲🇾 马来西亚过年旅行 · Feb 2026
+## [2026-04-27] ingest | 🇺🇸 Cleveland, Ohio · April 2026
+## [2026-04-27] ingest | 🇨🇦 Algonquin Park · May 2026
+## [2026-04-27] ingest | Sleep In car trip Packing List
+- source: Notion imports (vibe-coding-learning travel-plans sleep-in-car-packing)
+
 ## [2026-04-27] ingest | 输出型爱好
 ## [2026-04-27] ingest | 执行建议
 ## [2026-04-27] ingest | My hobby/Interest

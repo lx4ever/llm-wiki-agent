@@ -120,3 +120,12 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added `Fair Play House chores` cluster from Notion (`notion-fair-play-house-chores`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Vibe Coding Learning` cluster from Notion (`notion-vibe-coding-learning`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Travel Plans` cluster from Notion (`notion-travel-plans`) with depth-2 extraction (3 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Sleep In car trip Packing List` cluster from Notion (`notion-sleep-in-car-trip-packing-list`) with depth-2 extraction (0 child/grandchild pages).

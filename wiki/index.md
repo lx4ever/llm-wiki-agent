@@ -350,6 +350,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My hobby/Interest](sources/notion-untitled--my-hobby-interest.md) — imported from Notion depth-1 child page
 - [Living in Japan](sources/notion-living-in-japan.md) — imported from Notion page (depth 2 extraction)
 - [Fair Play House chores](sources/notion-fair-play-house-chores.md) — imported from Notion page (depth 2 extraction)
+- [Vibe Coding Learning](sources/notion-vibe-coding-learning.md) — imported from Notion page (depth 2 extraction)
+- [Travel Plans](sources/notion-travel-plans.md) — imported from Notion page (depth 2 extraction)
+- [🇲🇾 马来西亚过年旅行 · Feb 2026](sources/notion-travel-plans--feb-2026.md) — imported from Notion depth-1 child page
+- [🇺🇸 Cleveland, Ohio · April 2026](sources/notion-travel-plans--cleveland-ohio-april-2026.md) — imported from Notion depth-1 child page
+- [🇨🇦 Algonquin Park · May 2026](sources/notion-travel-plans--algonquin-park-may-2026.md) — imported from Notion depth-1 child page
+- [Sleep In car trip Packing List](sources/notion-sleep-in-car-trip-packing-list.md) — imported from Notion page (depth 2 extraction)
 
 ## Entities
 
