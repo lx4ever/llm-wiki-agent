@@ -327,6 +327,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Family Trips 2024](sources/notion-family-trips-2024.md) — imported from Notion page (depth 2 extraction)
 - [Books](sources/notion-books.md) — imported from Notion page (depth 2 extraction)
 - [正念冥想](sources/notion-untitled.md) — imported from Notion page (depth 2 extraction)
+- [Making own things cost](sources/notion-making-own-things-cost.md) — imported from Notion page (depth 2 extraction)
+- [Our trips](sources/notion-our-trips.md) — imported from Notion page (depth 2 extraction)
+- [LAS VEGAS](sources/notion-our-trips--las-vegas.md) — imported from Notion depth-1 child page
+- [LA Trip - Lalaland, Beach](sources/notion-our-trips--la-trip-lalaland-beach.md) — imported from Notion depth-1 child page
+- [DC and Boston, April 2025](sources/notion-our-trips--dc-and-boston-april-2025.md) — imported from Notion depth-1 child page
+- [Nearby USA](sources/notion-our-trips--nearby-usa.md) — imported from Notion depth-1 child page
+- [Letchworth State Park, End of Oct](sources/notion-our-trips--letchworth-state-park-end-of-oct.md) — imported from Notion depth-1 child page
+- [Birthday Freebies](sources/notion-our-trips--las-vegas-birthday-freebies.md) — imported from Notion depth-2 child page
+- [Photos and videos](sources/notion-our-trips--letchworth-state-park-end-of-oct-photos-and-videos.md) — imported from Notion depth-2 child page
+- [Photos from ll](sources/notion-our-trips--letchworth-state-park-end-of-oct-photos-from-ll.md) — imported from Notion depth-2 child page
+- [Recipes](sources/notion-recipes.md) — imported from Notion page (depth 2 extraction)
+- [HOME RENO](sources/notion-home-reno.md) — imported from Notion page (depth 2 extraction)
 
 ## Entities
 

@@ -81,3 +81,15 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added `正念冥想` cluster from Notion (`notion-untitled`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Making own things cost` cluster from Notion (`notion-making-own-things-cost`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Our trips` cluster from Notion (`notion-our-trips`) with depth-2 extraction (8 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Recipes` cluster from Notion (`notion-recipes`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `HOME RENO` cluster from Notion (`notion-home-reno`) with depth-2 extraction (0 child/grandchild pages).

@@ -1,3 +1,16 @@
+## [2026-04-27] ingest | Making own things cost
+## [2026-04-27] ingest | Our trips
+## [2026-04-27] ingest | LAS VEGAS
+## [2026-04-27] ingest | LA Trip - Lalaland, Beach
+## [2026-04-27] ingest | DC and Boston, April 2025
+## [2026-04-27] ingest | Nearby USA
+## [2026-04-27] ingest | Letchworth State Park, End of Oct
+## [2026-04-27] ingest | Photos and videos
+## [2026-04-27] ingest | Photos from ll
+## [2026-04-27] ingest | Recipes
+## [2026-04-27] ingest | HOME RENO
+- source: Notion imports (Work, Family Trips 2024, Books, and 33d7 link)
+
 ## [2026-04-27] ingest | 🏢 CRM — Business Development Hub
 ## [2026-04-27] ingest | EV Market New Model
 ## [2026-04-27] ingest | June Update
@@ -357,3 +370,5 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 - created concepts: `GrowthMindset`, `FertilityPreservation`, `GamblersFallacy`, `Procrastination`, `SelfAwareness`
 
 ## [2026-04-27] ingest | work
+
+## [2026-04-27] ingest | birthday freebies
