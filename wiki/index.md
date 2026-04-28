@@ -218,6 +218,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [今天我真实的感受到”什么是爱一个人”](sources/notion-my-mind-speaks--untitled-3467a51c.md) — imported from Notion child page
 - [你比我猜](sources/notion-my-mind-speaks--untitled-f4c7a51c.md) — imported from Notion child page
 - [今天好好的把自己养了一下](sources/notion-my-mind-speaks--untitled.md) — imported from Notion child page
+- [Low buy Nov](sources/notion-low-buy-nov.md) — imported from Notion page
+- [Lifestyle changes](sources/notion-low-buy-nov--lifestyle-changes.md) — imported from Notion child page
+- [Self-chat](sources/notion-low-buy-nov--self-chat.md) — imported from Notion child page
+- [Weight loss and happy llife](sources/notion-weight-loss-and-happy-llife.md) — imported from Notion page
+- [Food calories](sources/notion-weight-loss-and-happy-llife--food-calories.md) — imported from Notion child page
+- [Workout Plan](sources/notion-weight-loss-and-happy-llife--workout-plan.md) — imported from Notion child page
 
 ## Entities
 
@@ -245,5 +251,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [RFQ Workflow Orchestration](concepts/RFQWorkflowOrchestration.md) — AI+manual process architecture for RFQ and order flow
 - [Inner Dialogue Practice](concepts/InnerDialoguePractice.md) — writing-based self-dialogue for clarity and regulation
 - [Self Reflection Patterns](concepts/SelfReflectionPatterns.md) — recurring motifs across personal thought entries
+- [Low Buy Discipline](concepts/LowBuyDiscipline.md) — intentional spending reduction through constraints and awareness
+- [Intentional Consumption](concepts/IntentionalConsumption.md) — decision filter favoring needs/value over impulse wants
+- [Sustainable Weight Management](concepts/SustainableWeightManagement.md) — long-horizon habits for body composition and health
+- [Holistic Wellbeing](concepts/HolisticWellbeing.md) — linking physical health, mood, and daily routines
 
 ## Syntheses

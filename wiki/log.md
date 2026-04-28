@@ -1,3 +1,11 @@
+## [2026-04-27] ingest | Low buy Nov
+## [2026-04-27] ingest | Lifestyle changes
+## [2026-04-27] ingest | Self-chat
+## [2026-04-27] ingest | Weight loss and happy llife
+## [2026-04-27] ingest | Food calories
+## [2026-04-27] ingest | Workout Plan
+- source: Notion imports for low-buy and weight/wellbeing pages
+
 ## [2026-04-27] ingest | 你比我猜
 ## [2026-04-27] ingest | 今天好好的把自己养了一下
 - source: `raw/notion-my-mind-speaks/` child pages

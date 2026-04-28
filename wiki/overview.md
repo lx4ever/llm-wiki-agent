@@ -48,3 +48,9 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added personal-reflection cluster from Notion (`My mind speaks`) with 45 child entries for inner-dialogue and pattern-tracking retrieval.
+
+## Recent ingest updates
+- Added `Low buy Nov` cluster from Notion (`notion-low-buy-nov`) with 2 child pages.
+
+## Recent ingest updates
+- Added `Weight loss and happy llife` cluster from Notion (`notion-weight-loss-and-happy-llife`) with 2 child pages.
