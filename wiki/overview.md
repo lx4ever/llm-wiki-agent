@@ -129,3 +129,15 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added `Sleep In car trip Packing List` cluster from Notion (`notion-sleep-in-car-trip-packing-list`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Camping Pack list` cluster from Notion (`notion-camping-pack-list`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Trave trip packing list` cluster from Notion (`notion-trave-trip-packing-list`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Sleep In car trip Packing List (Reorganized Clone)` cluster from Notion (`notion-sleep-in-car-trip-packing-list-reorganized-clone`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Money Manifestation tracker` cluster from Notion (`notion-money-manifestation-tracker`) with depth-2 extraction (21 child/grandchild pages).

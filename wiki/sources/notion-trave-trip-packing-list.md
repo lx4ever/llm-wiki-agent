@@ -1,0 +1,26 @@
+---
+title: "Trave trip packing list"
+type: source
+tags: [notion, imported]
+date: 2026-04-27
+source_file: raw/notion-trave-trip-packing-list.md
+sources: [notion-trave-trip-packing-list]
+last_updated: 2026-04-27
+---
+
+## Summary
+Imported Notion page with depth-2 extraction (children + grandchildren) and normalized into wiki source format.
+
+## Key Claims
+- To Pack List:
+- ❗️ Essentials
+- [x] 1. Accommodation reservations and contact information
+
+## Key Quotes
+- (none extracted at root level)
+
+## Connections
+- [[notion-trave-trip-packing-list]]
+
+## Contradictions
+- None identified in deterministic ingest.

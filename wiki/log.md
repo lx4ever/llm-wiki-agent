@@ -1,3 +1,29 @@
+## [2026-04-27] ingest | Camping Pack list
+## [2026-04-27] ingest | Trave trip packing list
+## [2026-04-27] ingest | Sleep In car trip Packing List (Reorganized Clone)
+## [2026-04-27] ingest | Money Manifestation tracker
+## [2026-04-27] ingest | Spending Accrual
+## [2026-04-27] ingest | Account promotions
+## [2026-04-27] ingest | Net worth
+## [2026-04-27] ingest | TSLA
+## [2026-04-27] ingest | Visualization
+## [2026-04-27] ingest | Thank you お金
+## [2026-04-27] ingest | Cashflow
+## [2026-04-27] ingest | Let go of Limiting Beliefs
+## [2026-04-27] ingest | Vegas Trip
+## [2026-04-27] ingest | Wedding Decor Rental
+## [2026-04-27] ingest | Conscious Spending Plan
+## [2026-04-27] ingest | Real Estate Value Tracking
+## [2026-04-27] ingest | Grok
+## [2026-04-27] ingest | Stocks
+## [2026-04-27] ingest | Dividend stocks
+## [2026-04-27] ingest | Portfolio
+## [2026-04-27] ingest | 2026
+## [2026-04-27] ingest | TSLA Swing Journal
+## [2026-04-27] ingest | AI Prompt
+## [2026-04-27] ingest | test
+- source: Notion imports (camping-pack-list trave-trip-packing reorganized-clone money-manifestation)
+
 ## [2026-04-27] ingest | Vibe Coding Learning
 ## [2026-04-27] ingest | Travel Plans
 ## [2026-04-27] ingest | 🇲🇾 马来西亚过年旅行 · Feb 2026
