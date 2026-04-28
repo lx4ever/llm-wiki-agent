@@ -1,3 +1,9 @@
+## [2026-04-27] ingest | For work
+## [2026-04-27] ingest | Boxes Mental Load Model
+## [2026-04-27] ingest | AI Agent Prompt for MENTAL LOAD MISSION CONTROL
+## [2026-04-27] ingest | Master Prompt — Auto-Update My Notion Mission Control
+- source: `raw/notion-for-work.md` and child pages under `raw/notion-for-work/`
+
 ## [2026-04-27] ingest | Journal (Notion Database)
 ## [2026-04-27] ingest | 28th Birthday
 ## [2026-04-27] ingest | Daily entry

@@ -42,3 +42,6 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added Notion Journal database cluster (91 rows) as per-entry source pages for fine-grained retrieval and longitudinal reflection analysis.
+
+## Recent ingest updates
+- Added work-operations cluster from Notion (`For work`) covering mission-control execution boxes, RFQ/customer-order workflow maps, and automation-agent opportunities.

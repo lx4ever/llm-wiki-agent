@@ -1,0 +1,3 @@
+Boxes Mental Load Model	boxes-mental-load-model	2f37a51c-1360-8326-8880-817ccd8a8a67
+AI Agent Prompt for MENTAL LOAD MISSION CONTROL	ai-agent-prompt-for-mental-load-mission-control	3b17a51c-1360-83e5-9503-814c51e92180
+Master Prompt — Auto-Update My Notion Mission Control	master-prompt-auto-update-my-notion-mission-control	4187a51c-1360-820d-bfff-0158da0c8b03

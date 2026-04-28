@@ -167,6 +167,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Just another day](sources/notion-journal-database--just-another-day.md) — imported from Journal database row
 - [So much to be grateful for](sources/notion-journal-database--so-much-to-be-grateful-for.md) — imported from Journal database row
 - [Untitled](sources/notion-journal-database--untitled.md) — imported from Journal database row
+- [For work](sources/notion-for-work.md) — work automation and mission-control planning notes
+- [Boxes Mental Load Model](sources/notion-for-work--boxes-mental-load-model.md) — imported from Notion child page
+- [AI Agent Prompt for MENTAL LOAD MISSION CONTROL](sources/notion-for-work--ai-agent-prompt-for-mental-load-mission-control.md) — imported from Notion child page
+- [Master Prompt — Auto-Update My Notion Mission Control](sources/notion-for-work--master-prompt-auto-update-my-notion-mission-control.md) — imported from Notion child page
 
 ## Entities
 
@@ -189,5 +193,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Creator Monetization](concepts/CreatorMonetization.md) — revenue path framing for influencer channels
 - [Journal Knowledge Base](concepts/JournalKnowledgeBase.md) — journal entries as searchable knowledge units
 - [Reflective Practice](concepts/ReflectivePractice.md) — structured self-reflection and learning loop
+- [Operational Automation](concepts/OperationalAutomation.md) — remove repetitive admin work with agents and automations
+- [Mental Load Mission Control](concepts/MentalLoadMissionControl.md) — box-based execution system for high-load work
+- [RFQ Workflow Orchestration](concepts/RFQWorkflowOrchestration.md) — AI+manual process architecture for RFQ and order flow
 
 ## Syntheses
