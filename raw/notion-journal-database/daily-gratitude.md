@@ -1,0 +1,38 @@
+# Daily Gratitude
+
+- Notion page id: `e627a51c-1360-8281-b7bc-011a2fdde83b`
+- URL: https://www.notion.so/Daily-Gratitude-e627a51c13608281b7bc011a2fdde83b
+
+今天的正念能量语:
+
+- I am in perfect health!
+
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/b087b7df-3374-4f34-9141-3c55a33430eb/E86FE727-4801-45D6-99C9-74B1DBE3414C.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XCLRDKNN%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T022918Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAoaCXVzLXdlc3QtMiJHMEUCIHbodx4uPcysGxG2KBLb8Hmm9LXTheIkpNJ60XvLW8lnAiEAxCBVJMbtLqYqAc%2BC58kg0pS1TUAYJNqiJmYpMQkDLWYqiAQI0%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDIDmfSaIjXYthQx2mircA67TUbV%2FLr%2B4yRKvja9n3lwaSwaX4KcDXzALpiTGIQ5HCmReg8cDCbIiBUUzCzpNAA5zDojZf5HrkBRPn%2BOzyN%2F9qpBYAqqcY%2FaZPGf5PY7OC7eJIRJUAs%2FbnRbReQIKmbVnW4mKfD7flglTPn0XWQXC%2FvIILi%2FKWHpAbG1seEk5h3StWo46naOXf9Oq3Vr80l4cXNnVPKkbHqO51W%2BPKTt5zQahlm6fRlKf1jI7ekMBS2QufCRYzGYWhUpYPZSUqV3C%2FQhqUHNNhEaljxuLDuPhqy8Z6Dba9v7t8fGxe1eyR4YHpqIFHgZgEVSqI2tQK6P9a7PPSWkWWgKutJjkYssBKY8e0ospXPjX6Qg01KFU9BGnx49GP%2FGyjmVrPT3HaP5S36w5tXo22SnN4TPlFrZyG73fVP3GK1p7RVmNmF3iNhM9Ovy%2F0KPA6Xbbn0PZmvwl8d%2Ba3XGIMm3ljNNzTnbliejv3RSTSE5MQcs6mE1oWj1ZHpt7ExGKTpiH7oCbGXut6LURpfFFsLcn8iXPpwwNOWX5XcHShRjSokiyOLyw0vV%2FGD0fj7XOYwmRC2tl8wL0eMUWayCVGo5EqvsV2nYxbQxkQx0gfnEiWrUDj4K0hzirTMG0SKBDPR%2FqMOqjwM8GOqUBg8uYoYA3LTnZSocC9RQNbjSxPg7muiG1FxrR2CXGPWxfso9MVDDKwkDS2hxCnT%2B1XJ3NYxzB3rcPpazILUjeoeb%2BwAMzKLIz775P5Rd5jB%2F959QDGW4j1gyz1f1jOtkLOo3RTWh4BghUTmxP%2FBwgdwfM%2FdaUCp%2B8L777YDGUgUvYTYoVvIgOU40FFbHw26dCy3IJtEW4yUbOmq%2FNurC12QZNBBzJ&X-Amz-Signature=dc5347504fe95c5d6b34f462335749f69334eb94359f2a6a18935e07b2136b48&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+今天宇宙为我显化的美好:
+
+我非常感恩我拥有的这些，以及why:
+
+- 感恩a busy morning to move everything.
+
+- 感恩getting to laser appointment on time!
+
+- 感恩got an eye exam spot for Friday!
+
+- 感恩being with entire family the first day!
+
+- 感恩mom and dad went out to buy food just fir me!
+
+- 感恩mom and dad are doing so well!
+
+- 感恩a warm weather today, and meditating in the yard.
+
+- 感恩doing puzzles and meditate
+
+- 感恩a super healthy dinner
+
+- 感恩everything I have in my life.
+
+即将实现的美好愿景，以及愿景实现前的预兆:
+
+To Do:

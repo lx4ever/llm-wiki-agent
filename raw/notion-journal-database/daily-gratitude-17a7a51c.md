@@ -1,0 +1,34 @@
+# Daily Gratitude
+
+- Notion page id: `17a7a51c-1360-82d7-9856-8184730f2065`
+- URL: https://www.notion.so/Daily-Gratitude-17a7a51c136082d798568184730f2065
+
+今天的正念能量语:
+
+- My chakra are in perfect balance to give me this abundant health
+
+- 凡事发生必将有利于我
+
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/7463a4e5-cee8-4c3e-a917-7010e3a70d1b/8B23BC21-FF30-468D-888E-45DB28E6FD02.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466U5PS3F3B%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T022948Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAoaCXVzLXdlc3QtMiJGMEQCIE9EVNzjDzn22%2B2Vk3ZjfWCkmuubqFrHgmYDJ0eWaiTyAiByDICsAJzDhSoyMBkz1HMlIRP6wuv36LnIZMBz9NV1sSqIBAjT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMKiXET47DPmXe5xSTKtwDlX15527clQ03bXfcr7ff4M%2FonApCjpvNgmatw92ufrSWtlmToPCiej7IdsC%2FCawUiLJZeYVKdKILoOzrRqBW3Rf39Cg3lEd%2F4w4OIoq3yuBu4hj%2FMuabHqR%2FNwclqrxnF0gM5ALrvuElinj56EV7V3FHDZjYiSkvLKONHIv5Te6DP8yvB4jfJCctZlmZLjRDMcowxoI49R58HmFBeQy%2FokLPhYwdQ3L9PdBRRZlutXjtX%2BBc6ePkXNGqwCwY9ayuuIzHh3ZjmFv6jtdB%2BdvQGKRivh0AdWQF9%2Fnk%2BUaUc97fuviiSqamBSbTvLAi%2Fhlt9in3sG7tenxbl3GvD%2FtQLL7Jjrtlmk%2BPauPou4CGhRXbEjDjTibLn0HJE9ITByOJOUz%2FFYSjQ4WJRkGlo%2FXHh9DOWM%2B9hyNENuCClJlZHs144M6407RUdJbeWbuyDBcOz4mq39UQ0%2Bcyq42CNjnCgrKiM5fpmsqW00grMNJlcEddWO%2F5FEYJ7%2BOX%2F13ofeCR1wkCAMbuDRjyPQ6gJm1RuEmL1MF4vucJaj0sXZL57DUFeQjVYG6uS6kuUhvmw0kAzKsgT%2BVJdk9rEKaia5yyDVb36ZCZaS0JVHJSJluy1%2BndxqoM8%2BzmDgoNMGgw76PAzwY6pgFEAKjad6ybv4pWACjUUArMWwJLDnhj3TEKdTqSI0usLh3foT5dlmMarudmiHWp7Mf%2Fh%2BnS%2Bi8oDORhDBVrh5oZyoII9WZlYL770OMQ7cgCJr59cYzEJ9g9D9Mgre7E3oNu6Lm%2BIRCgGTnesRo4ITQoqorDKgJqSVDu%2B82MH7OHJGVNNLBpGI1xsKap5%2Bg9R2Saq3C33zGRdITWCxW0B4f9Ju7bNx%2B1&X-Amz-Signature=fb3eaa1527ecca77be78b9a8f3e92a480898db9f256a1dd8de4213f7aebd5c05&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/4bbf3fe9-2017-4042-a974-e992cf32625a/1BC1B908-607B-473F-B5B0-62B67A8B0955.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466U5PS3F3B%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T022948Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAoaCXVzLXdlc3QtMiJGMEQCIE9EVNzjDzn22%2B2Vk3ZjfWCkmuubqFrHgmYDJ0eWaiTyAiByDICsAJzDhSoyMBkz1HMlIRP6wuv36LnIZMBz9NV1sSqIBAjT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMKiXET47DPmXe5xSTKtwDlX15527clQ03bXfcr7ff4M%2FonApCjpvNgmatw92ufrSWtlmToPCiej7IdsC%2FCawUiLJZeYVKdKILoOzrRqBW3Rf39Cg3lEd%2F4w4OIoq3yuBu4hj%2FMuabHqR%2FNwclqrxnF0gM5ALrvuElinj56EV7V3FHDZjYiSkvLKONHIv5Te6DP8yvB4jfJCctZlmZLjRDMcowxoI49R58HmFBeQy%2FokLPhYwdQ3L9PdBRRZlutXjtX%2BBc6ePkXNGqwCwY9ayuuIzHh3ZjmFv6jtdB%2BdvQGKRivh0AdWQF9%2Fnk%2BUaUc97fuviiSqamBSbTvLAi%2Fhlt9in3sG7tenxbl3GvD%2FtQLL7Jjrtlmk%2BPauPou4CGhRXbEjDjTibLn0HJE9ITByOJOUz%2FFYSjQ4WJRkGlo%2FXHh9DOWM%2B9hyNENuCClJlZHs144M6407RUdJbeWbuyDBcOz4mq39UQ0%2Bcyq42CNjnCgrKiM5fpmsqW00grMNJlcEddWO%2F5FEYJ7%2BOX%2F13ofeCR1wkCAMbuDRjyPQ6gJm1RuEmL1MF4vucJaj0sXZL57DUFeQjVYG6uS6kuUhvmw0kAzKsgT%2BVJdk9rEKaia5yyDVb36ZCZaS0JVHJSJluy1%2BndxqoM8%2BzmDgoNMGgw76PAzwY6pgFEAKjad6ybv4pWACjUUArMWwJLDnhj3TEKdTqSI0usLh3foT5dlmMarudmiHWp7Mf%2Fh%2BnS%2Bi8oDORhDBVrh5oZyoII9WZlYL770OMQ7cgCJr59cYzEJ9g9D9Mgre7E3oNu6Lm%2BIRCgGTnesRo4ITQoqorDKgJqSVDu%2B82MH7OHJGVNNLBpGI1xsKap5%2Bg9R2Saq3C33zGRdITWCxW0B4f9Ju7bNx%2B1&X-Amz-Signature=5b47cab2362822a177144846f77f8826040d0f0f1c123bdcd4efe263dbd7272a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+今天宇宙为我显化的美好:
+
+我非常感恩我拥有的这些，以及why:
+
+- 感恩beautiful sunshine
+
+- 感恩a productive morning, another chakra mmeditatio to bring me peace and comfort
+
+- 感恩a good eye exam
+
+- 感恩the replies from Reddit on my post
+
+- 感恩my body and mind are in perfect harmony
+
+- 感恩watching a good show with fiance, Hill House. Looking forward to finishing it this weekend!
+
+即将实现的美好愿景，以及愿景实现前的预兆:
+
+To Do:

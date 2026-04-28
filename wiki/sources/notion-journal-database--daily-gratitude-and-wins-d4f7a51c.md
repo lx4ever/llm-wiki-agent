@@ -1,0 +1,27 @@
+---
+title: "Daily Gratitude and Wins"
+type: source
+tags: [journal, notion, journal]
+date: 2026-04-27
+source_file: raw/notion-journal-database/daily-gratitude-and-wins-d4f7a51c.md
+sources: [notion-journal-database]
+last_updated: 2026-04-27
+---
+
+## Summary
+今天的正念能量语: - I am totally healed, regenerated and abundantly healthy ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/acee17c0-1fda-4864-ad09-c9d6ca2793f1/0BC90E55-F8B1-48E3-9573-175E193CAF17.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466V6IEQZTR%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T022925Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAoaCXVzLXdlc3QtMiJHMEUCIAavflZXYaPctyJdoXBgKV1fyhGdWv0Qm1eicsD05c4bAiEAzAqJfDqCUq7YQhX51PUdW1Ighum8vXshjEwe9riOPtIqiAQI0%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDA8jj%2FunvEM2YJ4HFSrcA26x%2Bsj1HKvhUm5caHdwdK6qAmUTLQGrkrmZSGHNaRq3FjNWLtSlSoIk94LqQWnDyMC9R3KW0mogd9f1e6%2F5Grw0FLFlvt3vT6W%2Fs7xiuiChurj60uASjh8DUdHa9kmiDV9n1lv24X2045VevxfJa%2FrrSJBsphNHgvdqb4FEi%2FBXyNdKXnadWw%2FzSpb6e%2BC5tb%2BIZlFdUfk8T70PjpOm8mo2XEX1FRuNw9sgnJQcmHONcMReTy5%2FzonbkprBEaSunPPGnEGKVavIRQl5PmD6r9%2F2XYLG718WKZRjwzf1g6TdDEhWLkR4iiro044cGb2CfzMsd5Q2Wt47VBxroa%2FgQ3044YbpjqeE6BE%2Bnl6e%2FdYgtmdtcAovPFp5Ubt0JMkGcQ6V%2FNrKQ%2B%2BPNJZw%2BTdnYB8BVq%2BWcBouNxuDro5WR0gmYvp9%2BLecsdsRtfLJkg01P6FNOd3wzLSWB8Xxm80GgJQrSSrtysQ2enuvf106D%2FwdXPJUmYcxxlAg7GYlzOgyt7NUEmF1sw0ureDzIfX%2FHtdepjCXTnejRHO7olqL2vYiH7SXHC4qzdsI01ATRULnJjaNpf2888lrjyEveoOcegaKQzBny2Mb7VgmmMUFBc6ZSoMmsQmmJSaO%2FFzzMNeowM8GOqUBNe3wFXB584Sp%2B1fz69dD5YiCl5WU84SmU8NHrgTLBADAJiVF1zDK63Ru6NzA98omDbp2FjbaFWrNBDe3EnjE1MPQO98DsVf0VaritcZr0dJF%2FjokKxRHmAzf%2Bo1fhSuMzb61QXbMd1QHqOU1MBXM%2FHmxEzKQ2JIdGoqnK89Be7IgoV1Iwx9UUsdgLMlNgoSWXGM8es3u3QACGl2BV9IcPkY%2FQbYw&X-Amz-Signature=6e4b8d5ef4d6dab756107b19d2355a8aec6ff24031afb1d6d040cc9d777d0ced&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+## Key Claims
+- 今天的正念能量语:
+- - I am totally healed, regenerated and abundantly healthy
+- ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/acee17c0-1fda-4864-ad09-c9d6ca2793f1/0BC90E55-F8B1-48E3-9573-175E193CAF17.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466V6IEQZTR%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T022925Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAoaCXVzLXdlc3QtMiJHMEUCIAavflZXYaPctyJdoXBgKV1fyhGdWv0Qm1eicsD05c4bAiEAzAqJfDqCUq7YQhX51PUdW1Ighum8vXshjEwe9riOPtIqiAQI0%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDA8jj%2FunvEM2YJ4HFSrcA26x%2Bsj1HKvhUm5caHdwdK6qAmUTLQGrkrmZSGHNaRq3FjNWLtSlSoIk94LqQWnDyMC9R3KW0mogd9f1e6%2F5Grw0FLFlvt3vT6W%2Fs7xiuiChurj60uASjh8DUdHa9kmiDV9n1lv24X2045VevxfJa%2FrrSJBsphNHgvdqb4FEi%2FBXyNdKXnadWw%2FzSpb6e%2BC5tb%2BIZlFdUfk8T70PjpOm8mo2XEX1FRuNw9sgnJQcmHONcMReTy5%2FzonbkprBEaSunPPGnEGKVavIRQl5PmD6r9%2F2XYLG718WKZRjwzf1g6TdDEhWLkR4iiro044cGb2CfzMsd5Q2Wt47VBxroa%2FgQ3044YbpjqeE6BE%2Bnl6e%2FdYgtmdtcAovPFp5Ubt0JMkGcQ6V%2FNrKQ%2B%2BPNJZw%2BTdnYB8BVq%2BWcBouNxuDro5WR0gmYvp9%2BLecsdsRtfLJkg01P6FNOd3wzLSWB8Xxm80GgJQrSSrtysQ2enuvf106D%2FwdXPJUmYcxxlAg7GYlzOgyt7NUEmF1sw0ureDzIfX%2FHtdepjCXTnejRHO7olqL2vYiH7SXHC4qzdsI01ATRULnJjaNpf2888lrjyEveoOcegaKQzBny2Mb7VgmmMUFBc6ZSoMmsQmmJSaO%2FFzzMNeowM8GOqUBNe3wFXB584Sp%2B1fz69dD5YiCl5WU84SmU8NHrgTLBADAJiVF1zDK63Ru6NzA98omDbp2FjbaFWrNBDe3EnjE1MPQO98DsVf0VaritcZr0dJF%2FjokKxRHmAzf%2Bo1fhSuMzb61QXbMd1QHqOU1MBXM%2FHmxEzKQ2JIdGoqnK89Be7IgoV1Iwx9UUsdgLMlNgoSWXGM8es3u3QACGl2BV9IcPkY%2FQbYw&X-Amz-Signature=6e4b8d5ef4d6dab756107b19d2355a8aec6ff24031afb1d6d040cc9d777d0ced&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+## Key Quotes
+- (none extracted)
+
+## Connections
+- [[notion-journal-database]]
+- [[JournalKnowledgeBase]]
+
+## Contradictions
+- None identified in deterministic ingest.

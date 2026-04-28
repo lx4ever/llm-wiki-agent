@@ -1,0 +1,27 @@
+---
+title: "Daily Gratitude"
+type: source
+tags: [journal, notion, journal]
+date: 2026-04-27
+source_file: raw/notion-journal-database/daily-gratitude-85f7a51c.md
+sources: [notion-journal-database]
+last_updated: 2026-04-27
+---
+
+## Summary
+今天的正念能量语: - I am totally healed, regenerated and abundantly healthy. ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/f83addee-2447-4456-b1c8-79525c35720d/5453CB04-EBC9-498C-B0DE-2DA97DAE42C3.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466WOB5EEHO%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T022928Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAoaCXVzLXdlc3QtMiJIMEYCIQCVSE5qgg1qjW8rzewgWLJqJSpGuOeKYWq2%2FQtNGWSUbgIhAJ02NNEjrEvaQ6jVhKOb291N0Ts3hOBrhRiCgIM1K1W9KogECNP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgySwPwraG5VB0BGGqwq3AP%2BXr83ZdcVRht7h0XJF4m1VD7%2Brw61kFxxPjmJt4BM6VCmtd87sZmUtOF5k%2FoPwIRvM1q1G0gPIqDd5rjxYtaIPewl6xK%2FDrTlzCrrFPUxL4NZyetddkvovW7szcy40yPZWyERwAUohY1gg24q5cBVE6Uxdxv8SeHbSjPMsmXqFTLJlyrKeIb4uSsrKSkR%2FPVswlH7Rx38H2d0txkOY7hvxJOcds8XsUGWAEjzuOfvxKhLXzx4O7kj1aIjVNScshl4DaK8Bi6jcyRiwOeaO0KrdAMSHWIJS7bohSe5dkejOo9n%2BVnJKELbHr6tTby8AjhK0unWrTrBop9xUpMxa%2B1dg5ChfXhlN9OC6TokuSUSCFEjLbC5HNQmkxHtNOc%2FZkEbOOjyPre0dUQUEHd5rHY7Am9gHVqs%2Bogl2w7BXNOxR7Qgc0HurSBqwc1pzzQpP9L6ChAORswFtLXJuXT%2BgcITizInm2h76bYbacbBYVjNWBuLiMGB4MMfNL%2Bfyr7TXvzJQNuDylJn%2FpTr77gqO3a4zOAQ1ytEvJEjJFvykIfNAjhO1Zrr58XvKk393NBAKyCqRvTQeDRoxKBnVZfjp%2B89zqRwX7WHdCGeqZD0ohcUQElpNtZkE%2B27ahrlQzDgqMDPBjqkAbwvP0URVvTIRWdvEILbfTX9PgHNvcNe7ve4Wux4yG0hImoFsXUdlUuomHu5ljmWQC5q841VpJodybaotCBKPySWVK6wZxhVw1XdLcFnvjdmCPpiB64biWSFqXjXkiKCSL1RdsptjmmdPe2DJEBSf7m5HDeNZ8W7P0mE04X5FiJAq1elLUk6sC7lgxsWBfVgJ3AZjyFiwoO7nTLd6xVf4rsWdi9o&X-Amz-Signature=f0cccd90a207630f2b7acf89cd2c95fa27c27831749b3eba5e99f15bd8fb7c8a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+## Key Claims
+- 今天的正念能量语:
+- - I am totally healed, regenerated and abundantly healthy.
+- ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/f83addee-2447-4456-b1c8-79525c35720d/5453CB04-EBC9-498C-B0DE-2DA97DAE42C3.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466WOB5EEHO%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T022928Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAoaCXVzLXdlc3QtMiJIMEYCIQCVSE5qgg1qjW8rzewgWLJqJSpGuOeKYWq2%2FQtNGWSUbgIhAJ02NNEjrEvaQ6jVhKOb291N0Ts3hOBrhRiCgIM1K1W9KogECNP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgySwPwraG5VB0BGGqwq3AP%2BXr83ZdcVRht7h0XJF4m1VD7%2Brw61kFxxPjmJt4BM6VCmtd87sZmUtOF5k%2FoPwIRvM1q1G0gPIqDd5rjxYtaIPewl6xK%2FDrTlzCrrFPUxL4NZyetddkvovW7szcy40yPZWyERwAUohY1gg24q5cBVE6Uxdxv8SeHbSjPMsmXqFTLJlyrKeIb4uSsrKSkR%2FPVswlH7Rx38H2d0txkOY7hvxJOcds8XsUGWAEjzuOfvxKhLXzx4O7kj1aIjVNScshl4DaK8Bi6jcyRiwOeaO0KrdAMSHWIJS7bohSe5dkejOo9n%2BVnJKELbHr6tTby8AjhK0unWrTrBop9xUpMxa%2B1dg5ChfXhlN9OC6TokuSUSCFEjLbC5HNQmkxHtNOc%2FZkEbOOjyPre0dUQUEHd5rHY7Am9gHVqs%2Bogl2w7BXNOxR7Qgc0HurSBqwc1pzzQpP9L6ChAORswFtLXJuXT%2BgcITizInm2h76bYbacbBYVjNWBuLiMGB4MMfNL%2Bfyr7TXvzJQNuDylJn%2FpTr77gqO3a4zOAQ1ytEvJEjJFvykIfNAjhO1Zrr58XvKk393NBAKyCqRvTQeDRoxKBnVZfjp%2B89zqRwX7WHdCGeqZD0ohcUQElpNtZkE%2B27ahrlQzDgqMDPBjqkAbwvP0URVvTIRWdvEILbfTX9PgHNvcNe7ve4Wux4yG0hImoFsXUdlUuomHu5ljmWQC5q841VpJodybaotCBKPySWVK6wZxhVw1XdLcFnvjdmCPpiB64biWSFqXjXkiKCSL1RdsptjmmdPe2DJEBSf7m5HDeNZ8W7P0mE04X5FiJAq1elLUk6sC7lgxsWBfVgJ3AZjyFiwoO7nTLd6xVf4rsWdi9o&X-Amz-Signature=f0cccd90a207630f2b7acf89cd2c95fa27c27831749b3eba5e99f15bd8fb7c8a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+## Key Quotes
+- (none extracted)
+
+## Connections
+- [[notion-journal-database]]
+- [[JournalKnowledgeBase]]
+
+## Contradictions
+- None identified in deterministic ingest.

@@ -39,3 +39,6 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added influencer content cluster from Notion (`Influencer topics`) with 29 child topic pages covering platform strategy, niche pillars, and creator monetization directions.
+
+## Recent ingest updates
+- Added Notion Journal database cluster (91 rows) as per-entry source pages for fine-grained retrieval and longitudinal reflection analysis.

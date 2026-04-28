@@ -76,6 +76,97 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Travel](sources/notion-influencer-topics--travel.md) — imported from Notion child page
 - [TV show and movie food](sources/notion-influencer-topics--tv-show-and-movie-food.md) — imported from Notion child page
 - [美好生活的味道](sources/notion-influencer-topics--untitled.md) — imported from Notion child page
+- [Journal (Notion Database)](sources/notion-journal-database.md) — Notion journal database index export
+- [28th Birthday](sources/notion-journal-database--28th-birthday.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-0197a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-04d7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-1197a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-11b7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-13f7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-20c7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-28a7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-2c27a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-2cc7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-3127a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-3227a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-38b7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-4807a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-52a7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-53e7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-5937a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-5cd7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-6837a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-74a7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-7d17a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-9267a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-9367a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-a4a7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-a587a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-a847a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-b1a7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-b627a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-bc47a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-d4b7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-dad7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-e3f7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-e6b7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-f307a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-fb87a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry-fba7a51c.md) — imported from Journal database row
+- [Daily entry](sources/notion-journal-database--daily-entry.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-0b87a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-1397a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-1727a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-17a7a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-1857a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-4fd7a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-5597a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-56a7a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-5757a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-58f7a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-74f7a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-7507a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-76f7a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-7ec7a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-85f7a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-9437a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-aa17a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-00c7a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-0277a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-0c67a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-2007a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-2477a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-2527a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-28e7a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-2e17a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-2e27a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-4607a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-4a77a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-5d27a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-6167a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-6f87a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-7e77a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-9d27a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-ba37a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-bfa7a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-c357a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-c557a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-cd17a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-d4f7a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins-f797a51c.md) — imported from Journal database row
+- [Daily Gratitude and Wins](sources/notion-journal-database--daily-gratitude-and-wins.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-e6b7a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-e777a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-e897a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude-e8c7a51c.md) — imported from Journal database row
+- [Daily Gratitude](sources/notion-journal-database--daily-gratitude.md) — imported from Journal database row
+- [Daily reflection](sources/notion-journal-database--daily-reflection.md) — imported from Journal database row
+- [Date with Stewart](sources/notion-journal-database--date-with-stewart.md) — imported from Journal database row
+- [Hawaii Vacation](sources/notion-journal-database--hawaii-vacation.md) — imported from Journal database row
+- [Job Search - September](sources/notion-journal-database--job-search-september.md) — imported from Journal database row
+- [Just another day](sources/notion-journal-database--just-another-day.md) — imported from Journal database row
+- [So much to be grateful for](sources/notion-journal-database--so-much-to-be-grateful-for.md) — imported from Journal database row
+- [Untitled](sources/notion-journal-database--untitled.md) — imported from Journal database row
 
 ## Entities
 
@@ -96,5 +187,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Influencer Content Strategy](concepts/InfluencerContentStrategy.md) — platform+niche planning loop for creator growth
 - [Niche Content Pillars](concepts/NicheContentPillars.md) — recurring topic buckets for content programming
 - [Creator Monetization](concepts/CreatorMonetization.md) — revenue path framing for influencer channels
+- [Journal Knowledge Base](concepts/JournalKnowledgeBase.md) — journal entries as searchable knowledge units
+- [Reflective Practice](concepts/ReflectivePractice.md) — structured self-reflection and learning loop
 
 ## Syntheses
