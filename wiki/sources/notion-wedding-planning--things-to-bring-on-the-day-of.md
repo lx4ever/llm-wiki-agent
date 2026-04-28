@@ -1,0 +1,26 @@
+---
+title: "Things to bring on the day of"
+type: source
+tags: [notion, imported, writing]
+date: 2026-04-27
+source_file: raw/notion-wedding-planning/things-to-bring-on-the-day-of.md
+sources: [notion-wedding-planning]
+last_updated: 2026-04-27
+---
+
+## Summary
+- Necessity - [pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/1bd6008a-ddb5-4ca2-a651-d431f7985c26/Longos_Catering_Order_37045C_Confirmed.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662VIKYZ5U%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T025401Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAoaCXVzLXdlc3QtMiJHMEUCIQCHxpdAUEMsAt3HCnNq4xh9xRznaYJnN%2B1uEz4SDR1hYAIgMPgBsrdVfYh38lG6fPPLM9Uw5t%2BIWLeDGThWc12Lf8sqiAQI0%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDOMvRqoO3lcYXjpwcSrcA7o0zH1d%2FV0w4mmy0AdnMCEJw89V9XicKe4MIQUgULD2k0EKDYqJ%2F8vrRIJN7aUzhGPEk%2BCeN0YH0kKUkuW8u84xUw38hyywUWg%2BMY42pFu5cdtVRHCGMKouuTeED8J2AEXrbO0WC3C2EwrGn2Ov1yzAPpnFwyPqsPe7b5lwTePMKb%2F99%2BB%2B077vD1SCA1Q4vfXZjysIa0LLAPh0qCx9SymtRb5HawHL48eLeQzgvV5iVQlTBjr5VdEY%2FcZXUDLe6MmXnAL%2BkbFLglyM8K9%2F2eDkRfRd8fSMb0nsjQGqF3NJ49aFCG0zSdVU%2BlFul8WJTfn5i219jhi4iVFNr4228Ms0a%2Fm%2BXOjaaTAmN03zoVarzPMRkUUz5MmyH4usMJvZ56vs8r4ZKTDTDiCldbE4R06jyDbd3CHLUBGSBvrOGDfO0VGEEoHxt7UeTvatV2vqx8tYEtzh9w0e5V3xwB%2FQaOomAjlAqhmMGxBcu1MwKAnMqSZjy1%2BolJA0YA2MuZC%2BIfRAGCI5HjDWyG6%2FVfeU07DEhjhzT5y5d61QOHI0sjAW78pCA%2Bjmsl3ksU8JV1zsEE3YuyG0Hz4QBf1tZLEGtD%2Bribl6a1EufCm1rWz55YM%2Bf5uTIo4JmO1PHUbfMOujwM8GOqUBlVWuWGeSDwsTXEIZii%2FG9JgfaT517xaWZJZ0onBbvVyy4AaCS%2FBfmxRHL8qbzy28j%2BUz2N0JBaevU%2FBZnsF2tNWFWTx4VWpZZbFCoJ1Y%2Bkek%2FWbcC1NqfajBssYEL8R%2B4IO8fndPi%2BbCRlaDG5mPs8bk%2B9j8PiECs%2Fac7CnHAX5HcAtgPGkQ9XCwBYdJE6N46HQKJ4bmYI%2FoNJoAOLLTgj9iBCbM&X-Amz-Signature=d2352b533c239c8ec4aa658cb8b5abb204cdaad990022311f7db8bf6d7c8d182&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+## Key Claims
+- - Necessity
+- - [pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/1bd6008a-ddb5-4ca2-a651-d431f7985c26/Longos_Catering_Order_37045C_Confirmed.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662VIKYZ5U%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T025401Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAoaCXVzLXdlc3QtMiJHMEUCIQCHxpdAUEMsAt3HCnNq4xh9xRznaYJnN%2B1uEz4SDR1hYAIgMPgBsrdVfYh38lG6fPPLM9Uw5t%2BIWLeDGThWc12Lf8sqiAQI0%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDOMvRqoO3lcYXjpwcSrcA7o0zH1d%2FV0w4mmy0AdnMCEJw89V9XicKe4MIQUgULD2k0EKDYqJ%2F8vrRIJN7aUzhGPEk%2BCeN0YH0kKUkuW8u84xUw38hyywUWg%2BMY42pFu5cdtVRHCGMKouuTeED8J2AEXrbO0WC3C2EwrGn2Ov1yzAPpnFwyPqsPe7b5lwTePMKb%2F99%2BB%2B077vD1SCA1Q4vfXZjysIa0LLAPh0qCx9SymtRb5HawHL48eLeQzgvV5iVQlTBjr5VdEY%2FcZXUDLe6MmXnAL%2BkbFLglyM8K9%2F2eDkRfRd8fSMb0nsjQGqF3NJ49aFCG0zSdVU%2BlFul8WJTfn5i219jhi4iVFNr4228Ms0a%2Fm%2BXOjaaTAmN03zoVarzPMRkUUz5MmyH4usMJvZ56vs8r4ZKTDTDiCldbE4R06jyDbd3CHLUBGSBvrOGDfO0VGEEoHxt7UeTvatV2vqx8tYEtzh9w0e5V3xwB%2FQaOomAjlAqhmMGxBcu1MwKAnMqSZjy1%2BolJA0YA2MuZC%2BIfRAGCI5HjDWyG6%2FVfeU07DEhjhzT5y5d61QOHI0sjAW78pCA%2Bjmsl3ksU8JV1zsEE3YuyG0Hz4QBf1tZLEGtD%2Bribl6a1EufCm1rWz55YM%2Bf5uTIo4JmO1PHUbfMOujwM8GOqUBlVWuWGeSDwsTXEIZii%2FG9JgfaT517xaWZJZ0onBbvVyy4AaCS%2FBfmxRHL8qbzy28j%2BUz2N0JBaevU%2FBZnsF2tNWFWTx4VWpZZbFCoJ1Y%2Bkek%2FWbcC1NqfajBssYEL8R%2B4IO8fndPi%2BbCRlaDG5mPs8bk%2B9j8PiECs%2Fac7CnHAX5HcAtgPGkQ9XCwBYdJE6N46HQKJ4bmYI%2FoNJoAOLLTgj9iBCbM&X-Amz-Signature=d2352b533c239c8ec4aa658cb8b5abb204cdaad990022311f7db8bf6d7c8d182&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+- Entry preserved for future synthesis.
+
+## Key Quotes
+- (none extracted)
+
+## Connections
+- [[notion-wedding-planning]]
+
+## Contradictions
+- None identified in deterministic ingest.

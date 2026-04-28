@@ -66,3 +66,6 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added `A Novel - Shadows of Past` cluster from Notion (`notion-a-novel-shadows-of-past`) with 14 child pages.
+
+## Recent ingest updates
+- Added `Wedding planning` cluster from Notion (`notion-wedding-planning`) with depth-2 extraction (54 child/grandchild pages).

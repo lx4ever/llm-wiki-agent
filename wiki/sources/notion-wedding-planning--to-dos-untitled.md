@@ -1,0 +1,26 @@
+---
+title: "婚礼当天布置"
+type: source
+tags: [notion, imported, writing]
+date: 2026-04-27
+source_file: raw/notion-wedding-planning/to-dos-untitled.md
+sources: [notion-wedding-planning]
+last_updated: 2026-04-27
+---
+
+## Summary
+楼上（8am to 12am) - Table arrangement layout ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/b7c6401c-bd7b-41a4-9ccd-d588f27db5e1/IMG_4130.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QTUUTQFL%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T025421Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAsaCXVzLXdlc3QtMiJHMEUCIQDfeMQn84RLKCL4ZnrG5PjuoCAxgpfGmOirzZ3%2F%2FPYnUwIgNH1z%2FHdNmuVwMeDzdXUQHpGSqIz6N545SHZUoa8e6AUqiAQI1P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDOpXATB0mH2xvB0r1yrcA%2Bs2dhF9WzC4Fq1S0Ck%2BWLcy5YNvaubVcEu6e48j0VJiCq1xqQz2UQjvlknXj0bCo00HzBG%2FC2Zuul07QdgyUru%2BtrXa0D1s9%2FAxhz%2BcnTk%2FdWefRHYFSLyzdwxXPlfu4NpjkmRvc7EVsOSbWh%2FkGvJcIhvWvg2nNZQDd4tkBx2F9M%2FMrlUV%2Bpf8htEkgtI%2BuXV%2FZjuZDAbQFYsUC5Hn94sfxRer2DJkjrKUdql461IRUWw2I1oH02WYFKeUGUn%2FDfiXoXDtmsplz%2B4bx%2FdSJqlzddqNs2snuWMgTfK7ofbZR226nqKS8cgj8kxpIxkn7T4gmogE4V%2FKUDnVJD2U1quOegj7A0Ol0Ga0JRvfP4EzPdxr5zZlM6JNB7Jg6H3NH9NMJBduhtf9HcxjcdR6zBXVfZcjFV9AkNol3%2FTuV%2BuFXxWEUVXLVuPv5TJtB4HcUzYq73oF%2F%2BigcgkUbuhpb4kKNSJ7mRf3s1huaIZTMBuhfshMNT2RjqWxYyzHEqJe3LhkYC%2F3UitsoZem8o4XwHOSDMbp79hO57T9cFtNmTw%2FeB6gp8%2FnfHZ727D4e1Gdytaox0sgEt9GeYNo5hNH6dyuUwIOlkjFHpOoyfMltTNvtYAQrlCkN9eaLatIMPzAwM8GOqUBtUX2Mapaf1XKw8T3v3%2BOwrOS%2B805HiomViv4Bg1BZs10anTTF9bt9a7yWNKhDLzclnqJOdpOjolG3KpG7tImy4x7ekChn972mZAJm5E7u2GRcsaskd5fWx9BMA4xcORxLErYuTkVSN27VdvfZ8VqmmRO1D3JLntn0%2F%2FvsnfUrt4pNSO4d89HQtmuq0WTQS0ubemt4062J4EBFvsUYdSebVG1BWBm&X-Amz-Signature=39d4e95b793c97cfc7328e510a1654f315ebd145270f2b400a47c5a116c3fe2c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+## Key Claims
+- 楼上（8am to 12am)
+- - Table arrangement layout
+- ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/b7c6401c-bd7b-41a4-9ccd-d588f27db5e1/IMG_4130.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QTUUTQFL%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T025421Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAsaCXVzLXdlc3QtMiJHMEUCIQDfeMQn84RLKCL4ZnrG5PjuoCAxgpfGmOirzZ3%2F%2FPYnUwIgNH1z%2FHdNmuVwMeDzdXUQHpGSqIz6N545SHZUoa8e6AUqiAQI1P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDOpXATB0mH2xvB0r1yrcA%2Bs2dhF9WzC4Fq1S0Ck%2BWLcy5YNvaubVcEu6e48j0VJiCq1xqQz2UQjvlknXj0bCo00HzBG%2FC2Zuul07QdgyUru%2BtrXa0D1s9%2FAxhz%2BcnTk%2FdWefRHYFSLyzdwxXPlfu4NpjkmRvc7EVsOSbWh%2FkGvJcIhvWvg2nNZQDd4tkBx2F9M%2FMrlUV%2Bpf8htEkgtI%2BuXV%2FZjuZDAbQFYsUC5Hn94sfxRer2DJkjrKUdql461IRUWw2I1oH02WYFKeUGUn%2FDfiXoXDtmsplz%2B4bx%2FdSJqlzddqNs2snuWMgTfK7ofbZR226nqKS8cgj8kxpIxkn7T4gmogE4V%2FKUDnVJD2U1quOegj7A0Ol0Ga0JRvfP4EzPdxr5zZlM6JNB7Jg6H3NH9NMJBduhtf9HcxjcdR6zBXVfZcjFV9AkNol3%2FTuV%2BuFXxWEUVXLVuPv5TJtB4HcUzYq73oF%2F%2BigcgkUbuhpb4kKNSJ7mRf3s1huaIZTMBuhfshMNT2RjqWxYyzHEqJe3LhkYC%2F3UitsoZem8o4XwHOSDMbp79hO57T9cFtNmTw%2FeB6gp8%2FnfHZ727D4e1Gdytaox0sgEt9GeYNo5hNH6dyuUwIOlkjFHpOoyfMltTNvtYAQrlCkN9eaLatIMPzAwM8GOqUBtUX2Mapaf1XKw8T3v3%2BOwrOS%2B805HiomViv4Bg1BZs10anTTF9bt9a7yWNKhDLzclnqJOdpOjolG3KpG7tImy4x7ekChn972mZAJm5E7u2GRcsaskd5fWx9BMA4xcORxLErYuTkVSN27VdvfZ8VqmmRO1D3JLntn0%2F%2FvsnfUrt4pNSO4d89HQtmuq0WTQS0ubemt4062J4EBFvsUYdSebVG1BWBm&X-Amz-Signature=39d4e95b793c97cfc7328e510a1654f315ebd145270f2b400a47c5a116c3fe2c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+## Key Quotes
+- (none extracted)
+
+## Connections
+- [[notion-wedding-planning]]
+
+## Contradictions
+- None identified in deterministic ingest.

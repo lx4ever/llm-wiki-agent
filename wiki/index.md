@@ -251,6 +251,61 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chapter 9](sources/notion-a-novel-shadows-of-past--chapter-9.md) — imported from Notion child page
 - [Chapter 10](sources/notion-a-novel-shadows-of-past--chapter-10.md) — imported from Notion child page
 - [](sources/notion-a-novel-shadows-of-past--untitled.md) — imported from Notion child page
+- [Wedding planning](sources/notion-wedding-planning.md) — imported from Notion page (depth 2 extraction)
+- [Daily to do](sources/notion-wedding-planning--daily-to-do.md) — imported from Notion depth-1 child page
+- [Wedding流程](sources/notion-wedding-planning--wedding.md) — imported from Notion depth-1 child page
+- [Makeup Artist](sources/notion-wedding-planning--makeup-artist.md) — imported from Notion depth-1 child page
+- [Makeup Artist - 妆发](sources/notion-wedding-planning--makeup-artist-2.md) — imported from Notion depth-1 child page
+- [Photography](sources/notion-wedding-planning--photography.md) — imported from Notion depth-1 child page
+- [Wedding Photography](sources/notion-wedding-planning--wedding-photography.md) — imported from Notion depth-1 child page
+- [Wedding Decor](sources/notion-wedding-planning--wedding-decor.md) — imported from Notion depth-1 child page
+- [Wedding Dress](sources/notion-wedding-planning--wedding-dress.md) — imported from Notion depth-1 child page
+- [Wedding Band](sources/notion-wedding-planning--wedding-band.md) — imported from Notion depth-1 child page
+- [Wedding Venue](sources/notion-wedding-planning--wedding-venue.md) — imported from Notion depth-1 child page
+- [Wedding invite](sources/notion-wedding-planning--wedding-invite.md) — imported from Notion depth-1 child page
+- [Wedding Video](sources/notion-wedding-planning--wedding-video.md) — imported from Notion depth-1 child page
+- [Wedding Music](sources/notion-wedding-planning--wedding-music.md) — imported from Notion depth-1 child page
+- [Wedding food and drinks](sources/notion-wedding-planning--wedding-food-and-drinks.md) — imported from Notion depth-1 child page
+- [Groom Suit](sources/notion-wedding-planning--groom-suit.md) — imported from Notion depth-1 child page
+- [Wedding vow and speech](sources/notion-wedding-planning--wedding-vow-and-speech.md) — imported from Notion depth-1 child page
+- [Wedding Game](sources/notion-wedding-planning--wedding-game.md) — imported from Notion depth-1 child page
+- [Wedding gift for 伴娘伴郎](sources/notion-wedding-planning--wedding-gift-for.md) — imported from Notion depth-1 child page
+- [Engagement Photo](sources/notion-wedding-planning--engagement-photo.md) — imported from Notion depth-1 child page
+- [Wedding speech](sources/notion-wedding-planning--wedding-speech.md) — imported from Notion depth-1 child page
+- [Wedding MC Script](sources/notion-wedding-planning--wedding-mc-script.md) — imported from Notion depth-1 child page
+- [Wedding Procession](sources/notion-wedding-planning--wedding-procession.md) — imported from Notion depth-1 child page
+- [Things to bring on the day of](sources/notion-wedding-planning--things-to-bring-on-the-day-of.md) — imported from Notion depth-1 child page
+- [Wedding Photos](sources/notion-wedding-planning--wedding-photos.md) — imported from Notion depth-1 child page
+- [To dos](sources/notion-wedding-planning--to-dos.md) — imported from Notion depth-1 child page
+- [Venue contact](sources/notion-wedding-planning--venue-contact.md) — imported from Notion depth-1 child page
+- [Wedding Photos](sources/notion-wedding-planning--wedding-photos-2.md) — imported from Notion depth-1 child page
+- [New To Do](sources/notion-wedding-planning--daily-to-do-new-to-do.md) — imported from Notion depth-2 child page
+- [Table Arrangement](sources/notion-wedding-planning--wedding-table-arrangement.md) — imported from Notion depth-2 child page
+- [拍照设计](sources/notion-wedding-planning--wedding-untitled.md) — imported from Notion depth-2 child page
+- [Dinner room](sources/notion-wedding-planning--wedding-decor-dinner-room.md) — imported from Notion depth-2 child page
+- [Check in](sources/notion-wedding-planning--wedding-decor-check-in.md) — imported from Notion depth-2 child page
+- [Ceremony](sources/notion-wedding-planning--wedding-decor-ceremony.md) — imported from Notion depth-2 child page
+- [Cocktail Indoor](sources/notion-wedding-planning--wedding-decor-cocktail-indoor.md) — imported from Notion depth-2 child page
+- [Cocktail Outdoor](sources/notion-wedding-planning--wedding-decor-cocktail-outdoor.md) — imported from Notion depth-2 child page
+- [海运清单](sources/notion-wedding-planning--wedding-decor-untitled.md) — imported from Notion depth-2 child page
+- [素材库](sources/notion-wedding-planning--wedding-decor-untitled-2.md) — imported from Notion depth-2 child page
+- [仿真花](sources/notion-wedding-planning--wedding-decor-untitled-3.md) — imported from Notion depth-2 child page
+- [仿真花花艺分析](sources/notion-wedding-planning--wedding-decor-untitled-4.md) — imported from Notion depth-2 child page
+- [花艺需求](sources/notion-wedding-planning--wedding-decor-untitled-5.md) — imported from Notion depth-2 child page
+- [Wedding Game](sources/notion-wedding-planning--wedding-decor-wedding-game.md) — imported from Notion depth-2 child page
+- [Wedding Music List](sources/notion-wedding-planning--wedding-music-wedding-music-list.md) — imported from Notion depth-2 child page
+- [Wedding Vow final](sources/notion-wedding-planning--wedding-vow-and-speech-wedding-vow-final.md) — imported from Notion depth-2 child page
+- [Wedding Speech Final](sources/notion-wedding-planning--wedding-vow-and-speech-wedding-speech-final.md) — imported from Notion depth-2 child page
+- [Letter to parents](sources/notion-wedding-planning--wedding-vow-and-speech-letter-to-parents.md) — imported from Notion depth-2 child page
+- [First look letter](sources/notion-wedding-planning--wedding-vow-and-speech-first-look-letter.md) — imported from Notion depth-2 child page
+- [礼品Description](sources/notion-wedding-planning--wedding-game-description.md) — imported from Notion depth-2 child page
+- [Moneta Foto](sources/notion-wedding-planning--engagement-photo-moneta-foto.md) — imported from Notion depth-2 child page
+- [Wedding Procession](sources/notion-wedding-planning--to-dos-wedding-procession.md) — imported from Notion depth-2 child page
+- [photos](sources/notion-wedding-planning--to-dos-photos.md) — imported from Notion depth-2 child page
+- [婚礼当天布置](sources/notion-wedding-planning--to-dos-untitled.md) — imported from Notion depth-2 child page
+- [Agenda](sources/notion-wedding-planning--to-dos-agenda.md) — imported from Notion depth-2 child page
+- [Wedding Day Contact Info](sources/notion-wedding-planning--to-dos-wedding-day-contact-info.md) — imported from Notion depth-2 child page
+- [Drone](sources/notion-wedding-planning--to-dos-drone.md) — imported from Notion depth-2 child page
 
 ## Entities
 
@@ -290,5 +345,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Experience Prioritization](concepts/ExperiencePrioritization.md) — sequencing desired life experiences by impact and feasibility
 - [Narrative Architecture](concepts/NarrativeArchitecture.md) — structuring plot, arcs, and pacing across a long-form story
 - [Character Arc Design](concepts/CharacterArcDesign.md) — mapping character change, motives, and internal conflict over time
+- [Wedding Project Management](concepts/WeddingProjectManagement.md) — coordinating wedding tasks, timelines, vendors, and decisions across phases
+- [Wedding Budgeting](concepts/WeddingBudgeting.md) — balancing priorities, constraints, and spending tradeoffs for wedding outcomes
 
 ## Syntheses

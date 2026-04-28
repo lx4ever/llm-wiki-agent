@@ -1,3 +1,57 @@
+## [2026-04-27] ingest | Wedding planning
+## [2026-04-27] ingest | Daily to do
+## [2026-04-27] ingest | Wedding流程
+## [2026-04-27] ingest | Makeup Artist
+## [2026-04-27] ingest | Makeup Artist - 妆发
+## [2026-04-27] ingest | Photography
+## [2026-04-27] ingest | Wedding Photography
+## [2026-04-27] ingest | Wedding Decor
+## [2026-04-27] ingest | Wedding Dress
+## [2026-04-27] ingest | Wedding Band
+## [2026-04-27] ingest | Wedding Venue
+## [2026-04-27] ingest | Wedding invite
+## [2026-04-27] ingest | Wedding Video
+## [2026-04-27] ingest | Wedding Music
+## [2026-04-27] ingest | Wedding food and drinks
+## [2026-04-27] ingest | Groom Suit
+## [2026-04-27] ingest | Wedding vow and speech
+## [2026-04-27] ingest | Wedding Game
+## [2026-04-27] ingest | Wedding gift for 伴娘伴郎
+## [2026-04-27] ingest | Engagement Photo
+## [2026-04-27] ingest | Wedding speech
+## [2026-04-27] ingest | Wedding MC Script
+## [2026-04-27] ingest | Wedding Procession
+## [2026-04-27] ingest | Things to bring on the day of
+## [2026-04-27] ingest | Wedding Photos
+## [2026-04-27] ingest | To dos
+## [2026-04-27] ingest | Venue contact
+## [2026-04-27] ingest | New To Do
+## [2026-04-27] ingest | Table Arrangement
+## [2026-04-27] ingest | 拍照设计
+## [2026-04-27] ingest | Dinner room
+## [2026-04-27] ingest | Check in
+## [2026-04-27] ingest | Ceremony
+## [2026-04-27] ingest | Cocktail Indoor
+## [2026-04-27] ingest | Cocktail Outdoor
+## [2026-04-27] ingest | 海运清单
+## [2026-04-27] ingest | 素材库
+## [2026-04-27] ingest | 仿真花
+## [2026-04-27] ingest | 仿真花花艺分析
+## [2026-04-27] ingest | 花艺需求
+## [2026-04-27] ingest | Wedding Music List
+## [2026-04-27] ingest | Wedding Vow final
+## [2026-04-27] ingest | Wedding Speech Final
+## [2026-04-27] ingest | Letter to parents
+## [2026-04-27] ingest | First look letter
+## [2026-04-27] ingest | 礼品Description
+## [2026-04-27] ingest | Moneta Foto
+## [2026-04-27] ingest | photos
+## [2026-04-27] ingest | 婚礼当天布置
+## [2026-04-27] ingest | Agenda
+## [2026-04-27] ingest | Wedding Day Contact Info
+## [2026-04-27] ingest | Drone
+- source: Notion import for Wedding planning (depth 2)
+
 ## [2026-04-27] ingest | A Novel - Shadows of Past
 ## [2026-04-27] ingest | "
 ## [2026-04-27] ingest | Word Count
