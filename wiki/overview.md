@@ -111,3 +111,12 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added `Camping mode energy saving` cluster from Notion (`notion-camping-mode-energy-saving`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `输出型爱好` cluster from Notion (`notion-untitled`) with depth-2 extraction (2 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Living in Japan` cluster from Notion (`notion-living-in-japan`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Fair Play House chores` cluster from Notion (`notion-fair-play-house-chores`) with depth-2 extraction (0 child/grandchild pages).

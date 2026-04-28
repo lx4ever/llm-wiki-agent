@@ -345,6 +345,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Articles for learning](sources/notion-articles-for-learning.md) — imported from Notion page (depth 2 extraction)
 - [Healthy食谱](sources/notion-healthy.md) — imported from Notion page (depth 2 extraction)
 - [Camping mode energy saving](sources/notion-camping-mode-energy-saving.md) — imported from Notion page (depth 2 extraction)
+- [输出型爱好](sources/notion-untitled.md) — imported from Notion page (depth 2 extraction)
+- [执行建议](sources/notion-untitled--untitled.md) — imported from Notion depth-1 child page
+- [My hobby/Interest](sources/notion-untitled--my-hobby-interest.md) — imported from Notion depth-1 child page
+- [Living in Japan](sources/notion-living-in-japan.md) — imported from Notion page (depth 2 extraction)
+- [Fair Play House chores](sources/notion-fair-play-house-chores.md) — imported from Notion page (depth 2 extraction)
 
 ## Entities
 

@@ -1,5 +1,5 @@
 ---
-title: "滤芯"
+title: "输出型爱好"
 type: source
 tags: [notion, imported]
 date: 2026-04-27
@@ -12,9 +12,9 @@ last_updated: 2026-04-27
 Imported Notion page with depth-2 extraction (children + grandchildren) and normalized into wiki source format.
 
 ## Key Claims
-- 5级纯水机滤芯更换时间：
-- （以天津水质TDS200为例，每天用水10L为例）
-- 第一级：5微米PP棉，3~6个月
+- - child_database: New database
+- 你提出的问题非常典型——许多兴趣广泛的人都会面临“博而不精”的困境。我将结合认知心理学和创作实践经验，为你提供一套系统性解决方案。这种状态其实蕴含着巨大潜力，关键在于如何将输入的广度转化为输出的深度。
+- ### 一、重新理解"输出型爱好"的本质
 
 ## Key Quotes
 - (none extracted at root level)
