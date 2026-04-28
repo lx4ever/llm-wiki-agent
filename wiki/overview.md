@@ -1,17 +1,29 @@
 ---
 title: "Overview"
 type: synthesis
-tags: []
-sources: []
-last_updated: ""
+tags: [overview, personal-knowledge]
+sources: [notion-daily-things-learnt-1]
+last_updated: 2026-04-27
 ---
 
 # Overview
 
-*This page is maintained by the LLM. It is updated on every ingest to reflect the current synthesis across all sources.*
+Current wiki content is anchored by one source: [[notion-daily-things-learnt-1]].
 
-No sources ingested yet. Add your first source with:
+## Emerging themes
+- **Hybrid learning style:** factual snippets and deep self-reflection are captured in one stream.
+- **Personal development loop:** recurring cycles of self-observation, reframing, and behavior adjustment.
+- **Health-life integration:** medical uncertainty is documented as both practical planning and identity-level growth.
+- **Values and relationships:** family, money, boundaries, and love are treated as skills that can be trained.
 
-```bash
-python tools/ingest.py raw/your-source.md
-```
+## Active concept map
+- [[GrowthMindset]]
+- [[SelfAwareness]]
+- [[Procrastination]]
+- [[FertilityPreservation]]
+- [[GamblersFallacy]]
+
+As more sources are added, this overview should be updated for contradictions, convergence, and unresolved questions.
+
+## Notion collection expansions
+- Ingested 28 child pages from `Daily things learnt (1)` as separate source pages for granular querying.

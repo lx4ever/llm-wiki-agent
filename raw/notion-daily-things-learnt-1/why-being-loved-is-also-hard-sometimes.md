@@ -1,0 +1,11 @@
+# Why being loved is also hard sometimes
+
+- Notion page id: `94d7a51c-1360-8320-96ee-013f0550318b`
+
+Why do I find it is hard to tell my parents my situation?
+
+I find that love is both a strong support as well as a burden. We cannot beloved Without feeling the burden of that love. But the burden only exists because you know how deep that love is. It is a privilege to Bear the burden of love because you know it is true and it is deep.
+
+Like a mother of a father loves the child, they will think about, Talk about, care for, all their best hopes and wishes are all sent towards the child. They only want truly all good things for the child. However, in life, things don't always go our way. There will be ups and downs. Parents know that they cannot Wish all of their children's troubles away, But they will want to take away Any pain or suffering of those lives as long as they can. And Any good child should know and be truly grateful of having these parents with unconditional love. But sometimes, if the child is also coping,
+
+I think we are strong together as a family, I know we can get through this just like any other challenges we've faced in the past. Think of it like that I am finally able to take a small break to actually rest and reset for a new and better me. I am actually quite relieved when I told my Work colleagues and I received nothing but support from them. I actually feels a very large bursen taken off of me and I can truly see how fortunate I am to have such a supportive company, great health care and social support. I am actually now get time to pace myself, to reflect and to regenerate to prepare for my next stage! I am actually very excited for this time, at first my diagnosis seems like an overwhelming dead end, I could never be happy again. But now with relentless optimism and positivity, I know things will always go in the better direction for me. I now know that this is not only not a dead end, it is an OPPORTUNITY for a better life. i know I will be so much stronger, peaceful, mindful, caring person. So I hope you keep that in mind and hold the same desire to see a better me. And don't let negativity impact you because this is a good thing for all of us to get closer, more conscious about our happiness and well-being, develop a healthier lifestyle, So we can all be a stronger and better family together.
