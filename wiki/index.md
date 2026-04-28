@@ -224,6 +224,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Weight loss and happy llife](sources/notion-weight-loss-and-happy-llife.md) — imported from Notion page
 - [Food calories](sources/notion-weight-loss-and-happy-llife--food-calories.md) — imported from Notion child page
 - [Workout Plan](sources/notion-weight-loss-and-happy-llife--workout-plan.md) — imported from Notion child page
+- [Vision Board](sources/notion-vision-board.md) — imported from Notion page
+- [Health Positive Affirmations](sources/notion-vision-board--health-positive-affirmations.md) — imported from Notion child page
+- [Vlog](sources/notion-vlog.md) — imported from Notion page
+- [Daily life](sources/notion-vlog--daily-life.md) — imported from Notion child page
+- [Food](sources/notion-vlog--food.md) — imported from Notion child page
+- [Good stuffs to own](sources/notion-vlog--good-stuffs-to-own.md) — imported from Notion child page
+- [Hobbies](sources/notion-vlog--hobbies.md) — imported from Notion child page
+- [Home projects](sources/notion-vlog--home-projects.md) — imported from Notion child page
+- [How to](sources/notion-vlog--how-to.md) — imported from Notion child page
+- [Outdoor](sources/notion-vlog--outdoor.md) — imported from Notion child page
+- [Bucket list](sources/notion-bucket-list.md) — imported from Notion page
+- [Movies and shows](sources/notion-bucket-list--movies-and-shows.md) — imported from Notion child page
 
 ## Entities
 
@@ -255,5 +267,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Intentional Consumption](concepts/IntentionalConsumption.md) — decision filter favoring needs/value over impulse wants
 - [Sustainable Weight Management](concepts/SustainableWeightManagement.md) — long-horizon habits for body composition and health
 - [Holistic Wellbeing](concepts/HolisticWellbeing.md) — linking physical health, mood, and daily routines
+- [Vision Planning](concepts/VisionPlanning.md) — structured long-term life-direction planning through explicit aspirations
+- [Goal Visualization](concepts/GoalVisualization.md) — using concrete imagined futures to guide present decisions
+- [Vlog Production](concepts/VlogProduction.md) — planning and producing personal video content end-to-end
+- [Creator Workflow](concepts/CreatorWorkflow.md) — repeatable content pipeline from idea to publish
+- [Life Goals Planning](concepts/LifeGoalsPlanning.md) — explicit list of meaningful experiences to pursue over time
+- [Experience Prioritization](concepts/ExperiencePrioritization.md) — sequencing desired life experiences by impact and feasibility
 
 ## Syntheses

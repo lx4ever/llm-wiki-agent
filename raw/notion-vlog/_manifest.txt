@@ -1,0 +1,7 @@
+Food	food	7007a51c-1360-821b-9dec-015951aac291
+Outdoor	outdoor	db97a51c-1360-8323-9e87-016ce3f8f2fe
+Daily life	daily-life	9cb7a51c-1360-83e6-bf77-816cb0313b77
+Good stuffs to own	good-stuffs-to-own	a8b7a51c-1360-825b-904c-014ab0a447d3
+Home projects	home-projects	43b7a51c-1360-82ef-a5f1-01b0709958b9
+How to	how-to	dcc7a51c-1360-82fd-a6f8-01e37993e941
+Hobbies	hobbies	07f7a51c-1360-82bc-b672-0156963e58f6

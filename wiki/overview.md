@@ -54,3 +54,12 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added `Weight loss and happy llife` cluster from Notion (`notion-weight-loss-and-happy-llife`) with 2 child pages.
+
+## Recent ingest updates
+- Added `Vision Board` cluster from Notion (`notion-vision-board`) with 1 child pages.
+
+## Recent ingest updates
+- Added `Vlog` cluster from Notion (`notion-vlog`) with 7 child pages.
+
+## Recent ingest updates
+- Added `Bucket list` cluster from Notion (`notion-bucket-list`) with 1 child pages.
