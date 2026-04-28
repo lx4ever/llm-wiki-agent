@@ -45,3 +45,6 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added work-operations cluster from Notion (`For work`) covering mission-control execution boxes, RFQ/customer-order workflow maps, and automation-agent opportunities.
+
+## Recent ingest updates
+- Added personal-reflection cluster from Notion (`My mind speaks`) with 45 child entries for inner-dialogue and pattern-tracking retrieval.

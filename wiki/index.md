@@ -171,6 +171,53 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Boxes Mental Load Model](sources/notion-for-work--boxes-mental-load-model.md) — imported from Notion child page
 - [AI Agent Prompt for MENTAL LOAD MISSION CONTROL](sources/notion-for-work--ai-agent-prompt-for-mental-load-mission-control.md) — imported from Notion child page
 - [Master Prompt — Auto-Update My Notion Mission Control](sources/notion-for-work--master-prompt-auto-update-my-notion-mission-control.md) — imported from Notion child page
+- [My mind speaks](sources/notion-my-mind-speaks.md) — reflection collection root from Notion
+- [Agent for booking camping sites](sources/notion-my-mind-speaks--agent-for-booking-camping-sites.md) — imported from Notion child page
+- [Agent for cash flow analysis - In Progress](sources/notion-my-mind-speaks--agent-for-cash-flow-analysis-in-progress.md) — imported from Notion child page
+- [Agent for Flashfood](sources/notion-my-mind-speaks--agent-for-flashfood.md) — imported from Notion child page
+- [Agent for reviewing technical signals for Tesla stock](sources/notion-my-mind-speaks--agent-for-reviewing-technical-signals-for-tesla-stock.md) — imported from Notion child page
+- [Agent Tax](sources/notion-my-mind-speaks--agent-tax.md) — imported from Notion child page
+- [AI Artifact for Seniors](sources/notion-my-mind-speaks--ai-artifact-for-seniors.md) — imported from Notion child page
+- [AI Puzzle and Home Art Maker](sources/notion-my-mind-speaks--ai-puzzle-and-home-art-maker.md) — imported from Notion child page
+- [用AI帮我整理和发xhs有关wedding planning](sources/notion-my-mind-speaks--ai-xhs-wedding-planning.md) — imported from Notion child page
+- [American Dream](sources/notion-my-mind-speaks--american-dream.md) — imported from Notion child page
+- [An app for replenishment](sources/notion-my-mind-speaks--an-app-for-replenishment.md) — imported from Notion child page
+- [App/agent for home consumable discounts](sources/notion-my-mind-speaks--app-agent-for-home-consumable-discounts.md) — imported from Notion child page
+- [App/agent for travel planning](sources/notion-my-mind-speaks--app-agent-for-travel-planning.md) — imported from Notion child page
+- [App for AI Personal OS](sources/notion-my-mind-speaks--app-for-ai-personal-os.md) — imported from Notion child page
+- [App for books and quotes](sources/notion-my-mind-speaks--app-for-books-and-quotes.md) — imported from Notion child page
+- [App for closet org - In Process](sources/notion-my-mind-speaks--app-for-closet-org-in-process.md) — imported from Notion child page
+- [App for couples](sources/notion-my-mind-speaks--app-for-couples.md) — imported from Notion child page
+- [App for eye](sources/notion-my-mind-speaks--app-for-eye.md) — imported from Notion child page
+- [App for Japanese](sources/notion-my-mind-speaks--app-for-japanese.md) — imported from Notion child page
+- [App for meal plan](sources/notion-my-mind-speaks--app-for-meal-plan.md) — imported from Notion child page
+- [App for movies and shows](sources/notion-my-mind-speaks--app-for-movies-and-shows.md) — imported from Notion child page
+- [App for positive meditation - Built](sources/notion-my-mind-speaks--app-for-positive-meditation-built.md) — imported from Notion child page
+- [App for selecting gifts](sources/notion-my-mind-speaks--app-for-selecting-gifts.md) — imported from Notion child page
+- [App for seniors](sources/notion-my-mind-speaks--app-for-seniors.md) — imported from Notion child page
+- [App that enhances my interest](sources/notion-my-mind-speaks--app-that-enhances-my-interest.md) — imported from Notion child page
+- [App to create inspirational quote](sources/notion-my-mind-speaks--app-to-create-inspirational-quote.md) — imported from Notion child page
+- [Autobio](sources/notion-my-mind-speaks--autobio.md) — imported from Notion child page
+- [Clawdbot deals](sources/notion-my-mind-speaks--clawdbot-deals.md) — imported from Notion child page
+- [Clawdbot Grocery - in progress](sources/notion-my-mind-speaks--clawdbot-grocery-in-progress.md) — imported from Notion child page
+- [Clawdbot xhs](sources/notion-my-mind-speaks--clawdbot-xhs.md) — imported from Notion child page
+- [Create my fav quote images](sources/notion-my-mind-speaks--create-my-fav-quote-images.md) — imported from Notion child page
+- [Exercising motivational app](sources/notion-my-mind-speaks--exercising-motivational-app.md) — imported from Notion child page
+- [Food chain](sources/notion-my-mind-speaks--food-chain.md) — imported from Notion child page
+- [For work](sources/notion-my-mind-speaks--for-work.md) — imported from Notion child page
+- [Letters to my beloved, Every year](sources/notion-my-mind-speaks--letters-to-my-beloved-every-year.md) — imported from Notion child page
+- [Life hacks 生活小秘籍](sources/notion-my-mind-speaks--life-hacks.md) — imported from Notion child page
+- [Mystery text game - 剧本杀](sources/notion-my-mind-speaks--mystery-text-game.md) — imported from Notion child page
+- [openclaw for weixin](sources/notion-my-mind-speaks--openclaw-for-weixin.md) — imported from Notion child page
+- [Recommendation algorithm](sources/notion-my-mind-speaks--recommendation-algorithm.md) — imported from Notion child page
+- [Shit timer - Built](sources/notion-my-mind-speaks--shit-timer-built.md) — imported from Notion child page
+- [Tiny decision maker](sources/notion-my-mind-speaks--tiny-decision-maker.md) — imported from Notion child page
+- [今天我真实的感受到”什么是爱一个人”](sources/notion-my-mind-speaks--untitled.md) — imported from Notion child page
+- [When I am nervous/afraid](sources/notion-my-mind-speaks--when-i-am-nervous-afraid.md) — imported from Notion child page
+- [Women's transportation](sources/notion-my-mind-speaks--women-s-transportation.md) — imported from Notion child page
+- [今天我真实的感受到”什么是爱一个人”](sources/notion-my-mind-speaks--untitled-3467a51c.md) — imported from Notion child page
+- [你比我猜](sources/notion-my-mind-speaks--untitled-f4c7a51c.md) — imported from Notion child page
+- [今天好好的把自己养了一下](sources/notion-my-mind-speaks--untitled.md) — imported from Notion child page
 
 ## Entities
 
@@ -196,5 +243,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Operational Automation](concepts/OperationalAutomation.md) — remove repetitive admin work with agents and automations
 - [Mental Load Mission Control](concepts/MentalLoadMissionControl.md) — box-based execution system for high-load work
 - [RFQ Workflow Orchestration](concepts/RFQWorkflowOrchestration.md) — AI+manual process architecture for RFQ and order flow
+- [Inner Dialogue Practice](concepts/InnerDialoguePractice.md) — writing-based self-dialogue for clarity and regulation
+- [Self Reflection Patterns](concepts/SelfReflectionPatterns.md) — recurring motifs across personal thought entries
 
 ## Syntheses

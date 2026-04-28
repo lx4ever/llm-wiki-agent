@@ -1,3 +1,52 @@
+## [2026-04-27] ingest | 你比我猜
+## [2026-04-27] ingest | 今天好好的把自己养了一下
+- source: `raw/notion-my-mind-speaks/` child pages
+
+## [2026-04-27] ingest | My mind speaks
+## [2026-04-27] ingest | Agent for booking camping sites
+## [2026-04-27] ingest | Agent for cash flow analysis - In Progress
+## [2026-04-27] ingest | Agent for Flashfood
+## [2026-04-27] ingest | Agent for reviewing technical signals for Tesla stock
+## [2026-04-27] ingest | Agent Tax
+## [2026-04-27] ingest | AI Artifact for Seniors
+## [2026-04-27] ingest | AI Puzzle and Home Art Maker
+## [2026-04-27] ingest | 用AI帮我整理和发xhs有关wedding planning
+## [2026-04-27] ingest | American Dream
+## [2026-04-27] ingest | An app for replenishment
+## [2026-04-27] ingest | App/agent for home consumable discounts
+## [2026-04-27] ingest | App/agent for travel planning
+## [2026-04-27] ingest | App for AI Personal OS
+## [2026-04-27] ingest | App for books and quotes
+## [2026-04-27] ingest | App for closet org - In Process
+## [2026-04-27] ingest | App for couples
+## [2026-04-27] ingest | App for eye
+## [2026-04-27] ingest | App for Japanese
+## [2026-04-27] ingest | App for meal plan
+## [2026-04-27] ingest | App for movies and shows
+## [2026-04-27] ingest | App for positive meditation - Built
+## [2026-04-27] ingest | App for selecting gifts
+## [2026-04-27] ingest | App for seniors
+## [2026-04-27] ingest | App that enhances my interest
+## [2026-04-27] ingest | App to create inspirational quote
+## [2026-04-27] ingest | Autobio
+## [2026-04-27] ingest | Clawdbot deals
+## [2026-04-27] ingest | Clawdbot Grocery - in progress
+## [2026-04-27] ingest | Clawdbot xhs
+## [2026-04-27] ingest | Create my fav quote images
+## [2026-04-27] ingest | Exercising motivational app
+## [2026-04-27] ingest | Food chain
+## [2026-04-27] ingest | Letters to my beloved, Every year
+## [2026-04-27] ingest | Life hacks 生活小秘籍
+## [2026-04-27] ingest | Mystery text game - 剧本杀
+## [2026-04-27] ingest | openclaw for weixin
+## [2026-04-27] ingest | Recommendation algorithm
+## [2026-04-27] ingest | Shit timer - Built
+## [2026-04-27] ingest | Tiny decision maker
+## [2026-04-27] ingest | 今天我真实的感受到”什么是爱一个人”
+## [2026-04-27] ingest | When I am nervous/afraid
+## [2026-04-27] ingest | Women's transportation
+- source: `raw/notion-my-mind-speaks.md` and child pages under `raw/notion-my-mind-speaks/`
+
 ## [2026-04-27] ingest | For work
 ## [2026-04-27] ingest | Boxes Mental Load Model
 ## [2026-04-27] ingest | AI Agent Prompt for MENTAL LOAD MISSION CONTROL
