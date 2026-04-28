@@ -1,0 +1,17 @@
+# 冬季保暖好物：蒙古牦牛绒长款袜套
+
+- Notion page id: `dee7a51c-1360-83fe-b12a-812f3300eba6`
+- URL: https://www.notion.so/dee7a51c136083feb12a812f3300eba6
+
+原文：推荐冬天好物: 老寒腿有救了，蒙古的牦牛绒袜套，长款60cm, 舒服又保暖，还好搭配。
+
+图片OCR要点：
+- 品类：牦牛绒袜套 / leg warmers
+- 属性：长款约60cm，强调保暖与舒适
+- 场景：冬季穿搭搭配，针对怕冷、腿部保暖需求
+
+实用结论：
+- 适合冬天通勤和居家保暖。
+- 在不增加臃肿感的前提下提升下肢保温。
+
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/e5718da1-a62b-432c-ba58-703bc7ae688b/file_135---d65aa548-fab1-4bb8-a093-28a2c2acc1fd.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TIV4OVU3%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T033127Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAsaCXVzLXdlc3QtMiJIMEYCIQDZFmhthbqcNQxlf4Ex5aKcCUG4udVfnS%2FYyJGX7AyOPgIhAIrQSYIRwPOtneonO5GnQIIRweTbn4nmuBlIofRb2QpVKogECNT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgyhmF7BvlOcjIIVPEIq3AN6b4OqBE6%2FaplXUOp2lT1X%2Bzmt53qPh65b9Ybl4Qv%2FA77%2BPbf1sgujZOJpJtwSIYpWhcPBsMd59A1cxSbK%2FdwqKaZDtPtdHQQa2JLCGdNzz9dZ3uTzIbGba9edug44eLFg41sw98FnoXwJUUA%2FkHgx4XcG8OBpf8VQr050rmdsSCcaL11dbRH8no1JBp8bByDEAKJbiTEuXHoizVasG9gl0hGr0yScDBEIo2Rz5p9dk%2BAAeiSJEHOeQD9vn68%2Fw1h8j9c0JDmxyxybq4RI1LQdXm9ZeZ%2BMZSpF0h%2FN8zP0ChOWwJ9rH7ecDcfOEJh64KlXGCQUdeAC%2BLyZaFkvdCEciPPPJXNvDEOTqGYfv2kWEr9ARAF%2BKnQJVqjHTL3RYwMnoGkv8Ar244rppcklBphYnfdJwIx2EVfbkmBHvr834UHCJDz%2Fl8MR3VfumBHYXNzITG4G39jZjIdWDPvsUdQ9p%2BBLduy7Bt7kPyr1os%2FjDwmyep%2FQUlRgJ4TQgkXLZcjieLW47Tjw2i1Sknr5GpQ5TsmKQzo41eliw8ZVGYH1OQLzcPNQKmkkwC0iddq94jqmnS4akNYPUYhqWfxUqF8MMmu2YkTHycOiX1npbN6Z5ohZ7N9RtlC8fbKFCTCYyMDPBjqkAaqt7mVFpjoYf%2Fc%2F5WNw%2FnXjGp%2FyhV2B57pw21%2BGerIXAfF38D3MXfumoq8B9F8Mkf2z%2FXkbM707RRzqDfN9gCNR3B%2F0vD43os5koEcfUUz58nf5W9FFpCmv4yQNgiimUSetIL%2BdwF2TqgfyGb4nl6C6p3F1bho7Cb9Rebxs0iHyDab75J2GMclUi7GvBJXyNowKzFfw3YVlKs8qWR0NJf6R3JkN&X-Amz-Signature=281a4501ff95d537e3d241242f56185330918a5509f577915835aabad2d41f83&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)

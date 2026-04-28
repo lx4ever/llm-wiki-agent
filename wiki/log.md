@@ -1,3 +1,121 @@
+## [2026-04-27] ingest | 小红书上看到的副业
+## [2026-04-27] ingest | 减脂期低脂版乾隆白菜（5分钟爽口美味）
+## [2026-04-27] ingest | 🇨🇦微波炉2分钟无糖油蛋白小蛋糕（不到300大卡）
+## [2026-04-27] ingest | 苹果神仙吃法：苹果切块+酸奶+花生酱
+## [2026-04-27] ingest | 🇨🇦蜂蜜大麻花（小时候的味道，附做法）
+## [2026-04-27] ingest | 苹果白切肉（超好吃不是邪修！）
+## [2026-04-27] ingest | 3分钟咖啡奶冻
+## [2026-04-27] ingest | Instant Pot超浓意大利面（秽土转生版）
+## [2026-04-27] ingest | 🇨🇦低糖版！留子5🔪烤一打可露丽
+## [2026-04-27] ingest | 微波炉巧克力蛋糕（邪修梦中蛋糕）
+## [2026-04-27] ingest | 抹茶松饼的无敌配方（酵母版）
+## [2026-04-27] ingest | 鱼骨抹胸 种草
+## [2026-04-27] ingest | Staples神椅大打折 — 入手！
+## [2026-04-27] ingest | 妈妈回国归来 — 56刀的Uber是花得最值的钱
+## [2026-04-27] ingest | 2026年第二钓 — 米湖大丰收
+## [2026-04-27] ingest | 2026年第一次钓鱼（Harwood）
+## [2026-04-27] ingest | Hail Mary Project 电影感想
+## [2026-04-27] ingest | 想买的裙子 Aritzia Damasque Skirt
+## [2026-04-27] ingest | Shoes I want to buy
+## [2026-04-27] ingest | 低卡脆土豆沙拉！稳定食欲的神！一口惊艳我‼️
+## [2026-04-27] ingest | 解锁帕帕罗蒂咖啡包
+## [2026-04-27] ingest | 减脂人的肉酱薯条！太满足了！
+## [2026-04-27] ingest | WWS巨型热狗面包复刻！童年椰蓉奶油面包
+## [2026-04-27] ingest | 人生三明治！烤奶酪花生辣桃子三明治🥪
+## [2026-04-27] ingest | 今天我的穿搭
+## [2026-04-27] ingest | 喜欢这个脚指甲的颜色，以后做美甲可以试试！
+## [2026-04-27] ingest | 爱吃方便面调料包的有福了
+## [2026-04-27] ingest | 茶香鸡腿饭 好吃到一个回旋踢踢飞所有油腻
+## [2026-04-27] ingest | 🇨🇦在家实现关东煮🍢自由🆓（非料包超好吃
+## [2026-04-27] ingest | 早餐🔆| 蘑菇菠菜奶酪欧姆蛋🍳
+## [2026-04-27] ingest | 北美🇨🇦Costco牛肉最最简单的做法盐葱牛肉
+## [2026-04-27] ingest | 我做的羽衣甘蓝沙拉比Wagas的好吃100倍😆
+## [2026-04-27] ingest | 🇨🇦instant pot煮红薯10分钟就好了
+## [2026-04-27] ingest | 不愧是brie奶酪最好吃的做法
+## [2026-04-27] ingest | 微波炉280卡的wholefoods海鲜沙拉大乱斗
+## [2026-04-27] ingest | 🇨🇦全网忽略的宝藏‼️Costco 风干番茄开挂～
+## [2026-04-27] ingest | 🇨🇦Costco的气泡茶🥂
+## [2026-04-27] ingest | 北美神锅instant pot早餐一锅出
+## [2026-04-27] ingest | 比之前做的辣奶油炖鸡都好吃欸
+## [2026-04-27] ingest | Costco牛肉复刻沙茶牛肉煲😭太下饭了巨好吃
+## [2026-04-27] ingest | 我居然跟着德国健身房的菜谱做了一款蛋糕
+## [2026-04-27] ingest | 好像莫名其妙发现了一种好吃的三文鱼做法
+## [2026-04-27] ingest | 🇨🇦再发一下costco这个$15/kg的超低价牛肉
+## [2026-04-27] ingest | 🇨🇦盘点西人超市蔬菜的中餐做法
+## [2026-04-27] ingest | 请把肉桂香蕉锁sss!平底锅版vs空气炸锅版
+## [2026-04-27] ingest | 留子Instant Pot煲仔饭！绝美锅巴！
+## [2026-04-27] ingest | 用instant pot做出了完美的皮蛋瘦肉粥
+## [2026-04-27] ingest | instantpot无脑速成韩式辣排骨
+## [2026-04-27] ingest | Costco X Instant Pot 联合出品
+## [2026-04-27] ingest | Instant pot 玉米排骨汤
+## [2026-04-27] ingest | 外面的卤肉饭再也别想赚到我的钱😎
+## [2026-04-27] ingest | Instant Pot懒人食谱：缺德舅板栗鸡菌菇烩饭
+## [2026-04-27] ingest | 累死北美神锅 instant pot之苹果炖猪排
+## [2026-04-27] ingest | 凯宾斯基隔夜燕麦配方🥛刚刚好清甜软糯😋
+## [2026-04-27] ingest | 我其实挺喜欢加拿大预制菜的
+## [2026-04-27] ingest | 🇨🇦留子｜一人食｜蒸门
+## [2026-04-27] ingest | 这是一个直接发来的测试想法\n第二行补充说明
+## [2026-04-27] ingest | 关于让Openclaw学习炒股这件事😂
+## [2026-04-27] ingest | 18岁那天你来到洛杉矶的海滩
+## [2026-04-27] ingest | 结构化测试条目
+## [2026-04-27] ingest | 别把OpenClaw当ChatGPT用了，手把手教你
+## [2026-04-27] ingest | 用了Claude Skill之后，我少加了200小时班
+## [2026-04-27] ingest | 小生意owner都去学学vibe coding
+## [2026-04-27] ingest | 如何渔具打包，鱼竿直邮, 从国内邮寄快递
+## [2026-04-27] ingest | 🇨🇦我家终于不冻胳膊咯
+## [2026-04-27] ingest | ElevenLabs销售负责人：配额是底薪的20倍，
+## [2026-04-27] ingest | 加州最美的trail
+## [2026-04-27] ingest | 天啊，用辅食泥做这个韩式排骨的真是天才
+## [2026-04-27] ingest | 日式盐葱柠檬芦笋鸡腿🍗春日清新好好味🍃
+## [2026-04-27] ingest | Costco的蟹肉｜马里兰 Crab Cake
+## [2026-04-27] ingest | Ninja冰激淋机做了红腰豆🫘+红枣的
+## [2026-04-27] ingest | 烂脸期我反复吃的饭团！抗火火全身轻盈！
+## [2026-04-27] ingest | crush说这是他吃到过的最好吃的沙拉💕｜墨西哥土豆牛肉沙拉碗
+## [2026-04-27] ingest | Mel的8句早安话，30天改变磁场（附科学依据）
+## [2026-04-27] ingest | 电影种草：杰瑞和玛姬生活阔绰
+## [2026-04-27] ingest | 旅游穿搭：Define 外套 + Aritzia cargo sweatpant + UGG
+## [2026-04-27] ingest | 大胸女生免穿 bra 吊带搭配思路
+## [2026-04-27] ingest | Rocky，超可爱的 cockapoo
+## [2026-04-27] ingest | Aritzia 白色针织上衣搭配灵感
+## [2026-04-27] ingest | Ad Match 超市比价政策牌
+## [2026-04-27] ingest | Nescafe Gold Espresso 速溶咖啡
+## [2026-04-27] ingest | 华夫饼面糊配方（可冷冻回烤）
+## [2026-04-27] ingest | 自制华夫饼 — 凯西加州生活食谱
+## [2026-04-27] ingest | 淘宝黄碎花收腰蓬蓬裙试穿记录
+## [2026-04-27] ingest | 泰国生态棉不规则荷叶边半裙（580 RMB）心动记录
+## [2026-04-27] ingest | 夏日鞋花凉拖（268 RMB）购买判断
+## [2026-04-27] ingest | 1688入手 Shein bohemian 风半裙穿搭记录
+## [2026-04-27] ingest | A酸搭配保湿：Lipikar AP+M 防爆皮
+## [2026-04-27] ingest | 高能量正念冥想图片
+## [2026-04-27] ingest | 白天VC精华推荐：RoC Revive + Glow
+## [2026-04-27] ingest | 家用净水器省钱方案（国产机+滤芯）
+## [2026-04-27] ingest | Flashfood 省钱买菜攻略（Superstore半价临期）
+## [2026-04-27] ingest | 回国送礼：心血管健康类实用营养品
+## [2026-04-27] ingest | Round Lab 纯物理防晒使用心得
+## [2026-04-27] ingest | 冬季保暖好物：蒙古牦牛绒长款袜套
+## [2026-04-27] ingest | 今天吃墨西哥Taco
+## [2026-04-27] ingest | 1688纯棉安全裤内裤一体款入手记录
+## [2026-04-27] ingest | RCSS Superstore Price Match 竞品门店清单
+## [2026-04-27] ingest | A酸搭配精华推荐：理肤泉 Hyalu B5
+## [2026-04-27] ingest | Aritzia挂脖吊带试穿记录（显胸腰比强，未购）
+## [2026-04-27] ingest | 正念显化壁纸：宇宙能量与自我肯定
+## [2026-04-27] ingest | Skims风黑色连衣裙 x Chanel 配饰搭配方案
+## [2026-04-27] ingest | 穿戴甲回购记录：海莉极光裸色白渐变（中杏仁）
+## [2026-04-27] ingest | 白天乳液推荐：理肤泉 Toleriane Dermallergo
+## [2026-04-27] ingest | 1688 12mm人造珍珠项链（10 RMB）搭配尝试
+## [2026-04-27] ingest | 自设计电脑椅地垫（淘宝定制）
+## [2026-04-27] ingest | 1688狐狸毛袖2穿毛衣（千禧年千金风）
+## [2026-04-27] ingest | Aerie bikini set 70% off（约$30）
+## [2026-04-27] ingest | 菲律宾紫薯面包推荐（FV FOODS）
+## [2026-04-27] ingest | 橄榄绿全苎麻印花上衣（403 RMB）穿搭尝试
+## [2026-04-27] ingest | 1688双配色连体泳衣入手（黑/香槟，合计138 RMB）
+## [2026-04-27] ingest | 晚餐记录：红烧带鱼豆腐 + 凉拌菠菜木耳粉丝腐竹
+## [2026-04-27] ingest | Lululemon Align Top（显白色）穿搭记录
+## [2026-04-27] ingest | 淘宝外单凉拖双款记录（颜值高、性价比高）
+## [2026-04-27] ingest | 淘宝珍珠链可叠戴项链（双层/单层长戴）
+## [2026-04-27] ingest | Random 图文 Dump DB
+- source: Notion database import for Random 图文 Dump DB
+
 ## [2026-04-27] ingest | Random 图文 Dump
 - source: Notion import for Random Dump
 
@@ -426,3 +544,7 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 ## [2026-04-27] ingest | work
 
 ## [2026-04-27] ingest | birthday freebies
+## [2026-04-27] ingest | Random 图文 Dump DB (Database - 115 rows)
+- source: Notion database import for Random 图文 Dump DB (115 rows, 86 unique entries)
+
+## [2026-04-27] ingest | Random 图文 Dump DB (Database)

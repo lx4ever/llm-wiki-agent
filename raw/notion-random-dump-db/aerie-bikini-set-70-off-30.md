@@ -1,0 +1,14 @@
+# Aerie bikini set 70% off（约$30）
+
+- Notion page id: `8d87a51c-1360-8394-878e-8163ecc9748e`
+- URL: https://www.notion.so/Aerie-bikini-set-70-off-30-8d87a51c13608394878e8163ecc9748e
+
+新买的bikini set，Aerie 70% off，约$30一套。
+
+款式观察：三角挂脖上装+侧边系带下装；上装有钩编感纹理，下装为豹纹元素，整体是棕调度假风。
+
+购买判断：当前少见同色同款，价格落在可入手区间。
+
+穿搭方向：可配同色罩衫、草编包、浅色衬衫外搭。
+
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/e34ba207-4ff3-486a-aa47-1d4c16cce431/file_156---5b4a7037-b073-4807-a2a6-42e167b5fd4b.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QR3A5XX2%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T033131Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAsaCXVzLXdlc3QtMiJIMEYCIQC8cfUD1bIaZMjvQ0CUeW%2BYlR0Bu08CoVUN59K%2BSjDplwIhANcbILmlAudfMk6XGoCrxeBDSNZpiQO0%2FqzfZTo3kzB5KogECNT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgyRnU1YeliMebAGEsIq3ANLBf516xW6hjyNGEfHxnsn9m%2BoVCURsT%2FT8GXSO6TVkd%2FCeGmgprTMUBphhN7b2zjqonbkGGEnVatPYzIBUoNID9Muc8oQKUv%2FBqwuezM7Do3rwovc733nz%2B3Xvl4OS4M52xRUHU6%2FLbPnRNkYyUxuir09TR4ZtlDkHiLzIIbOawhTtb9XeOWfgKEBE1LMaGF3flUp9Alkj1lBjyvkL0a8OrM%2B8coNZ0iL5gfkaNsNdZPj5w2WPNnjiloF5b3dgO2PcWmG3bVCXYHDrTGg0M7hEyZZdkNzvxq9cSZFkAg8WDDOrx5E35x%2FgTKDwsiyObEEN5XHFMXUDEbmGkaOwZRHNCKUCqYwa3XCuzINw8DXLfvZf%2FS3ODbhiW6hkK185rMFGoYww0tJhThasB6QraM5CsN9RYglxACjTJk90wNZOtGgrR7g%2FPsYP3XQmaPwghpjtWzrFky8S0%2FXPfyPFTA8Aycv24TBW9Cfl%2Fz5BfjV58B1OJBGDfJZCYO%2B%2FrRE1%2Byebl0zgiUs602hHw3meyZS3Pmz5ahIy9kwxIC%2FjK6guKO8mk%2FF4H3DDclvm%2FViapiLUzLmjc8JWdknc35A39JSyDAjHxsxoiZtfAeajeX0Ki7Z50cGA3NaMnfIhjCWyMDPBjqkAScVJrRGQ7SBoEOVST3ymMMbX9jyAB%2BVKv3BbCu2%2Fe4rQRAVHD%2BkiAaePk%2BXNYajU6C71zdgd%2BQ6TcAsQ7jHpfXOHhDb%2BJuN0U3tmpHPj9qbhIshsE9L349gbBYxVpgrUD4KZrP8yAqR1TYfD45rkJ556xyiZkucWVyXbHN4YibvBU%2BtvuXTJcshUIBn4%2BmcFBdQ6sGfvIbUWX1Z6R%2FEFpMyjy4c&X-Amz-Signature=9535a6aa8215b16e2bf3927262c34d42938ac907a63b64ceba306352c2b70326&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)

@@ -1,0 +1,23 @@
+# 家用净水器省钱方案（国产机+滤芯）
+
+- Notion page id: `5297a51c-1360-83a0-9546-8134f3f217ff`
+- URL: https://www.notion.so/5297a51c136083a095468134f3f217ff
+
+原文：家用好物分享: 超推荐的国产净水器，便宜，reliable, filter也便宜。我海运过来包括多一套filter也才200刀左右一共。省钱大人就是我。
+
+图片OCR要点：
+- 场景：橱柜下安装的家用净水系统（多级滤芯）
+- 购物记录（截图可见）：
+  - 店铺：诺华清源净水工厂店
+  - 主机：厨房家用水族净水器 75G400G（约 ¥513.08）
+  - 滤芯套装：400G大流量-全套滤芯（约 ¥114.57）
+  - 其他滤芯配件：约 ¥45.40 等
+- 用户经验：海运+多一套滤芯合计约 200 美元左右，强调长期使用成本低。
+
+实用结论：
+- 适合看重长期耗材成本与性价比的家庭。
+- 购买时重点比较主机价格、滤芯通用性、后续替换成本。
+
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/0298bba9-f837-4e2a-bf94-63288e43d964/file_132---adf2fff2-c5c5-4924-b2c9-4cc1f60507e0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4665YRCYIYZ%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T033125Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAsaCXVzLXdlc3QtMiJIMEYCIQDJPyNHDOYSEUQaFSQ6yBpzA1ceRYQ6RFIxsfa%2BeDT6rgIhAIqpJx%2F2OxzD5SQmd4cBTlKryf31A8XiQTgJs5k7fFJ8KogECNT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igxok7p6FncjzVK16mgq3AO6K35%2F%2FVbxpewWCdCHKz1R793wcl%2FWxsABMLlNNAkXcBl8VWrTv%2B5d3wRYgsCpeKmSMdSBXffQWB%2BsJCnVglvM2K4IwoD02dWScK23WBRpPdAmsNNVeujrn7MpLJXgYMYE9AljZ%2F0KFmtzbmBuLUUbFot7dZdZXCr%2FVadbDcaSe7fYnAsiObGu%2B2YiI6KM%2BdbvXXiNysEDPy%2BKQ6sToufqxJjJaBtFdD6%2FIQLbvhFQm777uub4rMy5e95nJpItx6yglkf3W%2FzdpwMsvjLkQd5GxDEsylc9Pg1115YbbC8gArsAcJElhUYTZmGv1kJxZetfOszrn4XwEItbQO0Vce3QJKVeCN%2BmjJE5HkfEtCParM3mwLDtaFX38%2BCr3DNRHwBSZFecjHrj4%2FVBCj1%2BajjYaY2S4QkG06RMtSnC0hpLvcdSI%2BlPdMwwPVfFqeYALXC7SwtrUdcACUUclGO%2BgssfTn8RpyaOUm%2FL67DXKvvauFg0tHr3r81rb9g1nieVyzvlz%2Fclhcg72k05OcF2G4tiUPgBP4QUrXgvc9r7AJCXZGxY%2BUbX2B1wFybJcvXq0Nkh3K9juQbAk5jFS4vloQ2pMstOh2vYecRn0QqPuDI4rjIrtT9m8hz%2FxYoOgjCXyMDPBjqkAaKn4ZCiR34a3YF2LSWB6ydk3jYSGYypIR9QOVRroWzbFj2hBqOPhuKAESSi9rP7%2B2FQ9nI7kw7bDDWmwrwjNRckwGwIQkYN9HnzN%2FUNLR9F7BfpxYUG6%2FwNYifH35dVyDfp0UlI0EswV%2FBGtVszNfii761hNVpzRIWjaQIJ0SussDVKdooEVUY7QjAcqmE6VP9mJoX7nXHovCEQwgylNMBryjiz&X-Amz-Signature=1ed53050f9490d0420bc6a84dee50a8588c29ebc6e0de8b32e3fd11484a23fa2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/c2ebc31b-4959-4963-a4ad-3d23653bc02e/file_133---b0057843-0e9a-4f74-b20e-9dcede15932d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4665YRCYIYZ%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T033125Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAsaCXVzLXdlc3QtMiJIMEYCIQDJPyNHDOYSEUQaFSQ6yBpzA1ceRYQ6RFIxsfa%2BeDT6rgIhAIqpJx%2F2OxzD5SQmd4cBTlKryf31A8XiQTgJs5k7fFJ8KogECNT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igxok7p6FncjzVK16mgq3AO6K35%2F%2FVbxpewWCdCHKz1R793wcl%2FWxsABMLlNNAkXcBl8VWrTv%2B5d3wRYgsCpeKmSMdSBXffQWB%2BsJCnVglvM2K4IwoD02dWScK23WBRpPdAmsNNVeujrn7MpLJXgYMYE9AljZ%2F0KFmtzbmBuLUUbFot7dZdZXCr%2FVadbDcaSe7fYnAsiObGu%2B2YiI6KM%2BdbvXXiNysEDPy%2BKQ6sToufqxJjJaBtFdD6%2FIQLbvhFQm777uub4rMy5e95nJpItx6yglkf3W%2FzdpwMsvjLkQd5GxDEsylc9Pg1115YbbC8gArsAcJElhUYTZmGv1kJxZetfOszrn4XwEItbQO0Vce3QJKVeCN%2BmjJE5HkfEtCParM3mwLDtaFX38%2BCr3DNRHwBSZFecjHrj4%2FVBCj1%2BajjYaY2S4QkG06RMtSnC0hpLvcdSI%2BlPdMwwPVfFqeYALXC7SwtrUdcACUUclGO%2BgssfTn8RpyaOUm%2FL67DXKvvauFg0tHr3r81rb9g1nieVyzvlz%2Fclhcg72k05OcF2G4tiUPgBP4QUrXgvc9r7AJCXZGxY%2BUbX2B1wFybJcvXq0Nkh3K9juQbAk5jFS4vloQ2pMstOh2vYecRn0QqPuDI4rjIrtT9m8hz%2FxYoOgjCXyMDPBjqkAaKn4ZCiR34a3YF2LSWB6ydk3jYSGYypIR9QOVRroWzbFj2hBqOPhuKAESSi9rP7%2B2FQ9nI7kw7bDDWmwrwjNRckwGwIQkYN9HnzN%2FUNLR9F7BfpxYUG6%2FwNYifH35dVyDfp0UlI0EswV%2FBGtVszNfii761hNVpzRIWjaQIJ0SussDVKdooEVUY7QjAcqmE6VP9mJoX7nXHovCEQwgylNMBryjiz&X-Amz-Signature=0db6e50906d893d6e4a478811bcf24c1b87dc9a10d93fd78840e37b31ccd79ab&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)

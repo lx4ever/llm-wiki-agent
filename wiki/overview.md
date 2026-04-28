@@ -144,3 +144,6 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added `Random 图文 Dump` cluster from Notion (`notion-random-dump`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Random 图文 Dump DB` Notion database cluster (`notion-random-dump-db`) with 115 row pages.

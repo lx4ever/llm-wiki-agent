@@ -1,0 +1,17 @@
+# 白天乳液推荐：理肤泉 Toleriane Dermallergo
+
+- Notion page id: `3b07a51c-1360-8336-89dc-81e9b9ae5f1c`
+- URL: https://www.notion.so/Toleriane-Dermallergo-3b07a51c1360833689dc81e9b9ae5f1c
+
+原文：好用的白天乳液，敏感肌也可以用，不搓泥。便宜又好用。
+
+图片OCR要点：
+- 品牌：LA ROCHE-POSAY（理肤泉）
+- 系列/产品：TOLERIANE DERMALLERGO CREME
+- 定位：敏感肌友好、日间保湿修护
+
+使用反馈：
+- 白天使用不易搓泥
+- 价格友好，适合作为日常通勤保湿乳液
+
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb47a51c-1360-815a-b85e-0003c8c25119/827d8db8-70cd-4ccd-81ee-ac512e4a23b1/file_137---794f620c-e82b-4c41-b2c4-f324c715aeff.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZBW7VITH%2F20260428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260428T033130Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAsaCXVzLXdlc3QtMiJHMEUCIQCs8V6ihRxa1SEKv8KxFvRwv4I%2B8yFER8g6Sj4Zlk%2B4zAIgdICjyZ%2BhgBsm4dmwnq9vLcgCH6sT4%2BEonI3U%2FqXjxsgqiAQI1P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDMqVOaskRSVRWh%2FmhircA4hTWHKdkrd%2BBIB9PF%2Brvg%2B56pMixFg2%2FBDMkMkZ3jqnS3H%2FTasAjeDwPR%2BT4c%2Ft0GSrMZCt0DJKJP7VgMLPINPUu0e2HZLLXSLrd5FRtC9NWy2Vn0Zd86m9GR%2F8Tdxy1%2BNNom7cRXQceWvcihfx9R4VqPi5yD7Let4hyYLpSCagmF8PbgkFpeqn6CCVHnJhyWAUaDUQ3djMy%2BXfam1ngw%2FbuWnV6D0TiyaiQPh3HE0poIamX9JZxe4sgrxDQouJw1ToAfjpZjVRFyt5Waftj%2FxlgVEVOeWsAtMMSb3YspBLKx4yMaxsXi158WkE4Pk91LHUEGdFmapVHWJuFKCeQ%2BXUaUz%2BfW5hC5xfOmrzpdQvKDhc4hdu%2BYyuD5GYorbQ9UrIPY1PyY2jQEoJQgmKUEN2Hlyk6c7BnWTVcFZIav57HeO4siT3SLsKaq5geV2BShKPgzc8EE1WMEt8%2BHAwKjRfVtDXi7LZUeQpdY2T06oLF6OBzcxhyqQXlFQjv9p4ajgnmvrQMqKqDhc2iIG%2BJROflkmOcGTWJvt4u4cyGlY5ZK0M%2FHE08RcuKyUv8QevJIJpUw9hxiG0rm1QY1andkQBk3956dMPWkk63yUbpVoAAVoN0eZf3M6XYr7lMJfIwM8GOqUBZBF5vkGdkOJiguQAK%2F90Xbu4nZaqtUEF6QSbQaebaXgTt9GDRnuwOf8qGaL2dKonpT3siZPZTqzB7AQv7pAdrXyOVDHNj3WePUeYdMHavpw07v6dTakY3so6cDRh9xN2G8AIgs0qhOWft7Nzt60BTMOki0U%2BYw%2FASyvkPN7ZfStPFPwdi5jtLYWyufofrSAnxulGyLlzp7JjNJTVNSm3xY4muZa%2B&X-Amz-Signature=792b53b4d27fb26788a3a515aa9bbfa3953323afa6c4b293381454557bf14e22&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
