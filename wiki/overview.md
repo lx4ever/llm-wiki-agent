@@ -36,3 +36,6 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added side-hustle cluster from Notion (`Side hustle 101`): ideation systems, GTA market-selling tactics, and rapid micro-business experiments.
+
+## Recent ingest updates
+- Added influencer content cluster from Notion (`Influencer topics`) with 29 child topic pages covering platform strategy, niche pillars, and creator monetization directions.

@@ -46,6 +46,36 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Market Ideas](sources/notion-side-hustle-101--market-ideas.md) — GTA market opportunity list
 - [Advice/Recommendations for Selling at GTA Markets](sources/notion-side-hustle-101--advice-recommendations-for-selling-at-gta-markets.md) — operating playbook notes
 - [Market sell](sources/notion-side-hustle-101--market-sell.md) — practical market-sales execution notes
+- [Influencer topics](sources/notion-influencer-topics.md) — multi-niche influencer content planning repository
+- [1 thing I learnt today](sources/notion-influencer-topics--1-thing-i-learnt-today.md) — imported from Notion child page
+- [AI images](sources/notion-influencer-topics--ai-images.md) — imported from Notion child page
+- [Anime food](sources/notion-influencer-topics--anime-food.md) — imported from Notion child page
+- [ASMR - Mindfulness](sources/notion-influencer-topics--asmr-mindfulness.md) — imported from Notion child page
+- [Birthday Freebies!](sources/notion-influencer-topics--birthday-freebies.md) — imported from Notion child page
+- [Book, movie and show review](sources/notion-influencer-topics--book-movie-and-show-review.md) — imported from Notion child page
+- [Courses/Learning Resources](sources/notion-influencer-topics--courses-learning-resources.md) — imported from Notion child page
+- [Disney Cooking Videos](sources/notion-influencer-topics--disney-cooking-videos.md) — imported from Notion child page
+- [Eyecare](sources/notion-influencer-topics--eyecare.md) — imported from Notion child page
+- [For kids](sources/notion-influencer-topics--for-kids.md) — imported from Notion child page
+- [Games](sources/notion-influencer-topics--games.md) — imported from Notion child page
+- [Harry Potter Inspired Recipes](sources/notion-influencer-topics--harry-potter-inspired-recipes.md) — imported from Notion child page
+- [Holidays](sources/notion-influencer-topics--holidays.md) — imported from Notion child page
+- [Influencer Account](sources/notion-influencer-topics--influencer-account.md) — imported from Notion child page
+- [Interesting Technology](sources/notion-influencer-topics--interesting-technology.md) — imported from Notion child page
+- [Large Chest Girl Workout](sources/notion-influencer-topics--large-chest-girl-workout.md) — imported from Notion child page
+- [Legal Disclaimer](sources/notion-influencer-topics--legal-disclaimer.md) — imported from Notion child page
+- [Life Hacks](sources/notion-influencer-topics--life-hacks.md) — imported from Notion child page
+- [Mental health](sources/notion-influencer-topics--mental-health.md) — imported from Notion child page
+- [Music](sources/notion-influencer-topics--music.md) — imported from Notion child page
+- [My dreams](sources/notion-influencer-topics--my-dreams.md) — imported from Notion child page
+- [Outfits from the screen](sources/notion-influencer-topics--outfits-from-the-screen.md) — imported from Notion child page
+- [Own it for life](sources/notion-influencer-topics--own-it-for-life.md) — imported from Notion child page
+- [Theme Park Merchandise](sources/notion-influencer-topics--theme-park-merchandise.md) — imported from Notion child page
+- [Theme Park](sources/notion-influencer-topics--theme-park.md) — imported from Notion child page
+- [开tk or youtube](sources/notion-influencer-topics--tk-or-youtube.md) — imported from Notion child page
+- [Travel](sources/notion-influencer-topics--travel.md) — imported from Notion child page
+- [TV show and movie food](sources/notion-influencer-topics--tv-show-and-movie-food.md) — imported from Notion child page
+- [美好生活的味道](sources/notion-influencer-topics--untitled.md) — imported from Notion child page
 
 ## Entities
 
@@ -63,5 +93,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Side Hustle Ideation](concepts/SideHustleIdeation.md) — structured side-income opportunity generation
 - [GTA Market Selling](concepts/GTAMarketSelling.md) — local market sales strategy and execution
 - [Micro Business Experimentation](concepts/MicroBusinessExperimentation.md) — low-cost test-and-learn business validation
+- [Influencer Content Strategy](concepts/InfluencerContentStrategy.md) — platform+niche planning loop for creator growth
+- [Niche Content Pillars](concepts/NicheContentPillars.md) — recurring topic buckets for content programming
+- [Creator Monetization](concepts/CreatorMonetization.md) — revenue path framing for influencer channels
 
 ## Syntheses
