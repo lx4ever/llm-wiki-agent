@@ -342,6 +342,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Healthy eating habits](sources/notion-healthy-eating-habits.md) — imported from Notion page (depth 2 extraction)
 - [滤芯](sources/notion-untitled.md) — imported from Notion page (depth 2 extraction)
 - [2025 is the start of everything](sources/notion-2025-is-the-start-of-everything.md) — imported from Notion page (depth 2 extraction)
+- [Articles for learning](sources/notion-articles-for-learning.md) — imported from Notion page (depth 2 extraction)
+- [Healthy食谱](sources/notion-healthy.md) — imported from Notion page (depth 2 extraction)
+- [Camping mode energy saving](sources/notion-camping-mode-energy-saving.md) — imported from Notion page (depth 2 extraction)
 
 ## Entities
 

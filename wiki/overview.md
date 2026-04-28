@@ -102,3 +102,12 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added `2025 is the start of everything` cluster from Notion (`notion-2025-is-the-start-of-everything`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Articles for learning` cluster from Notion (`notion-articles-for-learning`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Healthy食谱` cluster from Notion (`notion-healthy`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Camping mode energy saving` cluster from Notion (`notion-camping-mode-energy-saving`) with depth-2 extraction (0 child/grandchild pages).

@@ -1,3 +1,8 @@
+## [2026-04-27] ingest | Articles for learning
+## [2026-04-27] ingest | Healthy食谱
+## [2026-04-27] ingest | Camping mode energy saving
+- source: Notion imports for articles-for-learning healthy camping-mode
+
 ## [2026-04-27] ingest | Healthy eating habits
 ## [2026-04-27] ingest | 滤芯
 ## [2026-04-27] ingest | 2025 is the start of everything
