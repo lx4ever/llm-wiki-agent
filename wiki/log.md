@@ -1,3 +1,6 @@
+## [2026-04-27] ingest | 12.21- Wins!
+- source: `raw/notion-shopping-addicion.md` and child pages under `raw/notion-shopping-addicion/`
+
 ## [2026-04-27] ingest | Real Estate Investment
 ## [2026-04-27] ingest | Airbnb
 ## [2026-04-27] ingest | Tenant

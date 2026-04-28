@@ -38,6 +38,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Real Estate Investment](sources/notion-real-estate-investment.md) — Notion real-estate strategy and opportunity notes
 - [Airbnb](sources/notion-real-estate-investment--airbnb.md) — STR operation notes from Notion child page
 - [Tenant](sources/notion-real-estate-investment--tenant.md) — tenant subpage (title-level extraction)
+- [Shopping addicion](sources/notion-shopping-addicion.md) — reflection and strategy notes for reducing compulsive shopping urges
+- [12.21- Wins!](sources/notion-shopping-addicion--12-21-wins.md) — concrete anti-impulse purchase win log
 
 ## Entities
 
@@ -50,5 +52,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Airbnb Rental Operations](concepts/AirbnbRentalOperations.md) — operating constraints and adaptation for STR
 - [Midterm Rental Strategy](concepts/MidtermRentalStrategy.md) — market/occupancy framework for 28–30+ day rentals
 - [Commercial Real Estate](concepts/CommercialRealEstate.md) — cash-flow oriented commercial property notes
+- [Shopping Urge Regulation](concepts/ShoppingUrgeRegulation.md) — delay-and-reflect approach to impulse purchase control
+- [Financial Mindfulness](concepts/FinancialMindfulness.md) — values-aligned money decision process
 
 ## Syntheses

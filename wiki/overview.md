@@ -30,3 +30,6 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added Notion real-estate knowledge cluster: STR operations, midterm strategy, and commercial-property opportunity tracking from `Real Estate Investment`.
+
+## Recent ingest updates
+- Added shopping-urge recovery cluster from Notion (`Shopping addicion`): mindfulness-based impulse control and values-aligned spending decisions.
