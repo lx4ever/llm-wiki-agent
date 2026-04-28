@@ -141,3 +141,6 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added `Money Manifestation tracker` cluster from Notion (`notion-money-manifestation-tracker`) with depth-2 extraction (21 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Random 图文 Dump` cluster from Notion (`notion-random-dump`) with depth-2 extraction (0 child/grandchild pages).

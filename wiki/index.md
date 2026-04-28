@@ -381,6 +381,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [TSLA Swing Journal](sources/notion-money-manifestation-tracker--tsla-tsla-swing-journal.md) — imported from Notion depth-2 child page
 - [AI Prompt](sources/notion-money-manifestation-tracker--grok-ai-prompt.md) — imported from Notion depth-2 child page
 - [test](sources/notion-money-manifestation-tracker--grok-test.md) — imported from Notion depth-2 child page
+- [Random 图文 Dump](sources/notion-random-dump.md) — imported from Notion page (depth 2 extraction)
 
 ## Entities
 
