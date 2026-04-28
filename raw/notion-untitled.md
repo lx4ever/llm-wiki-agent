@@ -1,10 +1,16 @@
-# 正念冥想
+# 滤芯
 
-- Notion page id: `33d7a51c-1360-8012-a529-e20b81ecae71`
-- URL: https://www.notion.so/33d7a51c13608012a529e20b81ecae71
+- Notion page id: `e527a51c-1360-820d-97d2-0100ed6b929d`
+- URL: https://www.notion.so/e527a51c1360820d97d20100ed6b929d
 
 ## Main Page Content
 
-I am safe, recovered, strong
-
-Today my body supported me by:
+5级纯水机滤芯更换时间：
+（以天津水质TDS200为例，每天用水10L为例）
+第一级：5微米PP棉，3~6个月
+第二级：颗粒活性炭，6~9个月
+第三级：1微米PP棉，6~9个月
+第四级：75加仑ro膜，12个月左右
+第四级：400加仑RO膜，2-3年左右
+第五级：后置活性炭，12个月
+（根据原水水质不同，滤芯使用寿命有差别，供亲参考）

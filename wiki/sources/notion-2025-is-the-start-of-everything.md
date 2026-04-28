@@ -1,10 +1,10 @@
 ---
-title: "滤芯"
+title: "2025 is the start of everything"
 type: source
 tags: [notion, imported]
 date: 2026-04-27
-source_file: raw/notion-untitled.md
-sources: [notion-untitled]
+source_file: raw/notion-2025-is-the-start-of-everything.md
+sources: [notion-2025-is-the-start-of-everything]
 last_updated: 2026-04-27
 ---
 
@@ -12,15 +12,15 @@ last_updated: 2026-04-27
 Imported Notion page with depth-2 extraction (children + grandchildren) and normalized into wiki source format.
 
 ## Key Claims
-- 5级纯水机滤芯更换时间：
-- （以天津水质TDS200为例，每天用水10L为例）
-- 第一级：5微米PP棉，3~6个月
+- - Go to cancun/LA
+- - Go to DC and Atlantic city
+- - Going camping
 
 ## Key Quotes
 - (none extracted at root level)
 
 ## Connections
-- [[notion-untitled]]
+- [[notion-2025-is-the-start-of-everything]]
 
 ## Contradictions
 - None identified in deterministic ingest.

@@ -93,3 +93,12 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added `HOME RENO` cluster from Notion (`notion-home-reno`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Healthy eating habits` cluster from Notion (`notion-healthy-eating-habits`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `滤芯` cluster from Notion (`notion-untitled`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `2025 is the start of everything` cluster from Notion (`notion-2025-is-the-start-of-everything`) with depth-2 extraction (0 child/grandchild pages).
