@@ -306,6 +306,27 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agenda](sources/notion-wedding-planning--to-dos-agenda.md) — imported from Notion depth-2 child page
 - [Wedding Day Contact Info](sources/notion-wedding-planning--to-dos-wedding-day-contact-info.md) — imported from Notion depth-2 child page
 - [Drone](sources/notion-wedding-planning--to-dos-drone.md) — imported from Notion depth-2 child page
+- [Work](sources/notion-work.md) — imported from Notion page (depth 2 extraction)
+- [🏢 CRM — Business Development Hub](sources/notion-work--crm-business-development-hub.md) — imported from Notion depth-1 child page
+- [EV Market New Model](sources/notion-work--ev-market-new-model.md) — imported from Notion depth-1 child page
+- [June Update](sources/notion-work--june-update.md) — imported from Notion depth-1 child page
+- [Aerospace](sources/notion-work--aerospace.md) — imported from Notion depth-1 child page
+- [Safran Pricing](sources/notion-work--safran-pricing.md) — imported from Notion depth-1 child page
+- [2025 Growth Goal](sources/notion-work--2025-growth-goal.md) — imported from Notion depth-1 child page
+- [Where Do I see myself](sources/notion-work--where-do-i-see-myself.md) — imported from Notion depth-1 child page
+- [Business Development Strategy](sources/notion-work--business-development-strategy.md) — imported from Notion depth-1 child page
+- [Value Proposition](sources/notion-work--value-proposition.md) — imported from Notion depth-1 child page
+- [LinkedIn reach out](sources/notion-work--linkedin-reach-out.md) — imported from Notion depth-1 child page
+- [](sources/notion-work--untitled.md) — imported from Notion depth-1 child page
+- [market_intel.py](sources/notion-work--crm-business-development-hub-market-intel-py.md) — imported from Notion depth-2 child page
+- [Meeting with Anixter US](sources/notion-work--ev-market-new-model-meeting-with-anixter-us.md) — imported from Notion depth-2 child page
+- [Aircraft Engine](sources/notion-work--aerospace-aircraft-engine.md) — imported from Notion depth-2 child page
+- [electrical power generation system](sources/notion-work--aerospace-electrical-power-generation-system.md) — imported from Notion depth-2 child page
+- [Lessons learnt](sources/notion-work--safran-pricing-lessons-learnt.md) — imported from Notion depth-2 child page
+- [Top 10 Defence Companies](sources/notion-work--business-development-strategy-top-10-defence-companies.md) — imported from Notion depth-2 child page
+- [Family Trips 2024](sources/notion-family-trips-2024.md) — imported from Notion page (depth 2 extraction)
+- [Books](sources/notion-books.md) — imported from Notion page (depth 2 extraction)
+- [正念冥想](sources/notion-untitled.md) — imported from Notion page (depth 2 extraction)
 
 ## Entities
 

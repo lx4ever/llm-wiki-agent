@@ -69,3 +69,15 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added `Wedding planning` cluster from Notion (`notion-wedding-planning`) with depth-2 extraction (54 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Work` cluster from Notion (`notion-work`) with depth-2 extraction (17 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Family Trips 2024` cluster from Notion (`notion-family-trips-2024`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `Books` cluster from Notion (`notion-books`) with depth-2 extraction (0 child/grandchild pages).
+
+## Recent ingest updates
+- Added `正念冥想` cluster from Notion (`notion-untitled`) with depth-2 extraction (0 child/grandchild pages).

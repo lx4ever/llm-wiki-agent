@@ -1,3 +1,24 @@
+## [2026-04-27] ingest | 🏢 CRM — Business Development Hub
+## [2026-04-27] ingest | EV Market New Model
+## [2026-04-27] ingest | June Update
+## [2026-04-27] ingest | Aerospace
+## [2026-04-27] ingest | Safran Pricing
+## [2026-04-27] ingest | 2025 Growth Goal
+## [2026-04-27] ingest | Where Do I see myself
+## [2026-04-27] ingest | Business Development Strategy
+## [2026-04-27] ingest | Value Proposition
+## [2026-04-27] ingest | LinkedIn reach out
+## [2026-04-27] ingest | market_intel.py
+## [2026-04-27] ingest | Meeting with Anixter US
+## [2026-04-27] ingest | Aircraft Engine
+## [2026-04-27] ingest | electrical power generation system
+## [2026-04-27] ingest | Lessons learnt
+## [2026-04-27] ingest | Top 10 Defence Companies
+## [2026-04-27] ingest | Family Trips 2024
+## [2026-04-27] ingest | Books
+## [2026-04-27] ingest | 正念冥想
+- source: Notion imports (Work, Family Trips 2024, Books, and 33d7 link)
+
 ## [2026-04-27] ingest | Wedding planning
 ## [2026-04-27] ingest | Daily to do
 ## [2026-04-27] ingest | Wedding流程
@@ -334,3 +355,5 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 - created: `wiki/sources/notion-daily-things-learnt-1.md`
 - updated: `wiki/index.md`, `wiki/overview.md`
 - created concepts: `GrowthMindset`, `FertilityPreservation`, `GamblersFallacy`, `Procrastination`, `SelfAwareness`
+
+## [2026-04-27] ingest | work
