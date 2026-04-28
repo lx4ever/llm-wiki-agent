@@ -236,6 +236,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Outdoor](sources/notion-vlog--outdoor.md) — imported from Notion child page
 - [Bucket list](sources/notion-bucket-list.md) — imported from Notion page
 - [Movies and shows](sources/notion-bucket-list--movies-and-shows.md) — imported from Notion child page
+- [A Novel - Shadows of Past](sources/notion-a-novel-shadows-of-past.md) — imported from Notion novel project page
+- [Word Count](sources/notion-a-novel-shadows-of-past--word-count.md) — imported from Notion child page
+- [Plot Guidelines](sources/notion-a-novel-shadows-of-past--plot-guidelines.md) — imported from Notion child page
+- [Prologue](sources/notion-a-novel-shadows-of-past--prologue.md) — imported from Notion child page
+- [Chapter 1 The Glimpse Back in Time](sources/notion-a-novel-shadows-of-past--chapter-1-the-glimpse-back-in-time.md) — imported from Notion child page
+- [Chapter 2](sources/notion-a-novel-shadows-of-past--chapter-2.md) — imported from Notion child page
+- [Chapter 3](sources/notion-a-novel-shadows-of-past--chapter-3.md) — imported from Notion child page
+- [Chapter 4](sources/notion-a-novel-shadows-of-past--chapter-4.md) — imported from Notion child page
+- [Chapter 5](sources/notion-a-novel-shadows-of-past--chapter-5.md) — imported from Notion child page
+- [Chapter 6](sources/notion-a-novel-shadows-of-past--chapter-6.md) — imported from Notion child page
+- [Chapter 7](sources/notion-a-novel-shadows-of-past--chapter-7.md) — imported from Notion child page
+- [Chapter 8](sources/notion-a-novel-shadows-of-past--chapter-8.md) — imported from Notion child page
+- [Chapter 9](sources/notion-a-novel-shadows-of-past--chapter-9.md) — imported from Notion child page
+- [Chapter 10](sources/notion-a-novel-shadows-of-past--chapter-10.md) — imported from Notion child page
+- [](sources/notion-a-novel-shadows-of-past--untitled.md) — imported from Notion child page
 
 ## Entities
 
@@ -273,5 +288,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Creator Workflow](concepts/CreatorWorkflow.md) — repeatable content pipeline from idea to publish
 - [Life Goals Planning](concepts/LifeGoalsPlanning.md) — explicit list of meaningful experiences to pursue over time
 - [Experience Prioritization](concepts/ExperiencePrioritization.md) — sequencing desired life experiences by impact and feasibility
+- [Narrative Architecture](concepts/NarrativeArchitecture.md) — structuring plot, arcs, and pacing across a long-form story
+- [Character Arc Design](concepts/CharacterArcDesign.md) — mapping character change, motives, and internal conflict over time
 
 ## Syntheses

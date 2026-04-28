@@ -63,3 +63,6 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added `Bucket list` cluster from Notion (`notion-bucket-list`) with 1 child pages.
+
+## Recent ingest updates
+- Added `A Novel - Shadows of Past` cluster from Notion (`notion-a-novel-shadows-of-past`) with 14 child pages.

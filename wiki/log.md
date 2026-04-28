@@ -1,3 +1,20 @@
+## [2026-04-27] ingest | A Novel - Shadows of Past
+## [2026-04-27] ingest | "
+## [2026-04-27] ingest | Word Count
+## [2026-04-27] ingest | Plot Guidelines
+## [2026-04-27] ingest | Prologue
+## [2026-04-27] ingest | Chapter 1 The Glimpse Back in Time
+## [2026-04-27] ingest | Chapter 2
+## [2026-04-27] ingest | Chapter 3
+## [2026-04-27] ingest | Chapter 4
+## [2026-04-27] ingest | Chapter 5
+## [2026-04-27] ingest | Chapter 6
+## [2026-04-27] ingest | Chapter 7
+## [2026-04-27] ingest | Chapter 8
+## [2026-04-27] ingest | Chapter 9
+## [2026-04-27] ingest | Chapter 10
+- source: Notion import for A Novel - Shadows of Past
+
 ## [2026-04-27] ingest | Vision Board
 ## [2026-04-27] ingest | Health Positive Affirmations
 ## [2026-04-27] ingest | Vlog
