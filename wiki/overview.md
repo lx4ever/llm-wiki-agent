@@ -33,3 +33,6 @@ As more sources are added, this overview should be updated for contradictions, c
 
 ## Recent ingest updates
 - Added shopping-urge recovery cluster from Notion (`Shopping addicion`): mindfulness-based impulse control and values-aligned spending decisions.
+
+## Recent ingest updates
+- Added side-hustle cluster from Notion (`Side hustle 101`): ideation systems, GTA market-selling tactics, and rapid micro-business experiments.

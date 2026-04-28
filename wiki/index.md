@@ -40,6 +40,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tenant](sources/notion-real-estate-investment--tenant.md) — tenant subpage (title-level extraction)
 - [Shopping addicion](sources/notion-shopping-addicion.md) — reflection and strategy notes for reducing compulsive shopping urges
 - [12.21- Wins!](sources/notion-shopping-addicion--12-21-wins.md) — concrete anti-impulse purchase win log
+- [Side hustle 101](sources/notion-side-hustle-101.md) — side-hustle ideation and execution notebook
+- [Idea generation methods](sources/notion-side-hustle-101--idea-generation-methods.md) — ideation inputs and discovery methods
+- [First Truck Sale](sources/notion-side-hustle-101--first-truck-sale.md) — booth and conversion tactics
+- [Market Ideas](sources/notion-side-hustle-101--market-ideas.md) — GTA market opportunity list
+- [Advice/Recommendations for Selling at GTA Markets](sources/notion-side-hustle-101--advice-recommendations-for-selling-at-gta-markets.md) — operating playbook notes
+- [Market sell](sources/notion-side-hustle-101--market-sell.md) — practical market-sales execution notes
 
 ## Entities
 
@@ -54,5 +60,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Commercial Real Estate](concepts/CommercialRealEstate.md) — cash-flow oriented commercial property notes
 - [Shopping Urge Regulation](concepts/ShoppingUrgeRegulation.md) — delay-and-reflect approach to impulse purchase control
 - [Financial Mindfulness](concepts/FinancialMindfulness.md) — values-aligned money decision process
+- [Side Hustle Ideation](concepts/SideHustleIdeation.md) — structured side-income opportunity generation
+- [GTA Market Selling](concepts/GTAMarketSelling.md) — local market sales strategy and execution
+- [Micro Business Experimentation](concepts/MicroBusinessExperimentation.md) — low-cost test-and-learn business validation
 
 ## Syntheses

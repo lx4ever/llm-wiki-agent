@@ -1,3 +1,10 @@
+## [2026-04-27] ingest | Idea generation methods
+## [2026-04-27] ingest | First Truck Sale
+## [2026-04-27] ingest | Market Ideas
+## [2026-04-27] ingest | Advice/Recommendations for Selling at GTA Markets
+## [2026-04-27] ingest | Market sell
+- source: `raw/notion-side-hustle-101.md` and child pages under `raw/notion-side-hustle-101/`
+
 ## [2026-04-27] ingest | 12.21- Wins!
 - source: `raw/notion-shopping-addicion.md` and child pages under `raw/notion-shopping-addicion/`
 
